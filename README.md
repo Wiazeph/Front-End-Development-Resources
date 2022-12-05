@@ -31,7 +31,6 @@
 <br>
 
 - [Can I Use](https://caniuse.com/)
-- [Component Party](https://component-party.dev/)
 
 <br>
 
@@ -41,6 +40,7 @@
 
 <br>
 
+- [Component Party](https://component-party.dev/)
 - [Analyzer CSS](https://www.projectwallace.com/)
 - [JSON Crack](https://jsoncrack.com/)
 
@@ -53,7 +53,7 @@
 <br>
 
 - [Freelancer Guide](https://freelancer.guide/)
-- [Uzaktan Calismak - [TR]](https://uzaktancalismak.com/)
+- [Uzaktan Çalışmak - [TR]](https://uzaktancalismak.com/)
 
 <br>
 
@@ -70,13 +70,13 @@
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
-- [web.dev (Google)](https://web.dev/)
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
-- [cssreference.io](https://cssreference.io/)
+- [web.dev (Google)](https://web.dev/)
 
 <br>
 
 - [CSS-Tricks](https://css-tricks.com/)
+- [cssreference.io](https://cssreference.io/)
 - [SASS-SCSS](https://sass-lang.com/guide)
 - [Bootstrap](https://getbootstrap.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -93,6 +93,11 @@
 <div align="left">
 
 <h3 id="Video-Resources" >Video Resources:</h3>
+
+- [Vue.js Course for Beginners [2021 Tutorial] - (freeCodeCamp.org)](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [JavaScript Programming - Full Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=jS4aFq5-91M&t=10s)
+
+<br>
 
 - [HTML+CSS Öğreniyoruz - (Adem İlter) - [TR]](https://www.youtube.com/playlist?list=PLadt0EaV4m3Ae9mBaQNylUKUaFK38F4EB)
 - [Kendi Web Sitemizi Yapalım - (Adem İlter) - [TR]](https://www.youtube.com/playlist?list=PLadt0EaV4m3CegrrLThwhYrlcz5rGbI8B)
@@ -177,11 +182,6 @@
 <br>
 
 - [NuxtJS - (Abdullah Uğraşkan) - [TR]](https://www.youtube.com/playlist?list=PLf-6qk7szL-KlV2rONxuytTWrgb66oMnt)
-
-<br>
-
-- [Vue.js Course for Beginners [2021 Tutorial] - (freeCodeCamp.org) - [EN]](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
-- [JavaScript Programming - Full Course - (freeCodeCamp.org) - [EN]](https://www.youtube.com/watch?v=jS4aFq5-91M&t=10s)
 
 <br>
 
@@ -526,15 +526,6 @@
 
 <h3 id="Jobs" >Jobs:</h3>
 
-- [Gençlere Destek - [TR]](https://gencleredestek.com/)
-
-<br>
-
-- [{ kod, ilan } (Kodilan.com) - [TR]](https://kodilan.com/)
-- [Kariyer.net - [TR]](https://www.kariyer.net/)
-
-<br>
-
 - [TalentGrid](https://talentgrid.io/)
 - [coderspace](https://coderspace.io/)
 
@@ -543,6 +534,15 @@
 - [Relocate](https://relocate.me/)
 - [Crossover](https://www.crossover.com/jobs)
 - [Coolever](https://job.coolever.life/find-a-job/)
+
+<br>
+
+- [Gençlere Destek - [TR]](https://gencleredestek.com/)
+
+<br>
+
+- [{ kod, ilan } (Kodilan.com) - [TR]](https://kodilan.com/)
+- [Kariyer.net - [TR]](https://www.kariyer.net/)
 
 <br>
 
