@@ -16,7 +16,7 @@
 
 <h1 id="Resources">Resources</h1>
 
-**<a href="#Links">Helpful / Useful Links</a> | <a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Course-Training-Certificate">Courses, Trainings and Certificates</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a> | <a href="#Components">Ready to use Components</a>**
+**<a href="#Links">Helpful / Useful Links</a> | <a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Course-Training-Certificate">Courses, Trainings and Certificates</a> | <a href="#SourceResearch">Source Research</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a> | <a href="#Components">Ready to use Components</a>**
 
 <br>
 
@@ -212,6 +212,30 @@
   - [Geleceği Yazanlar - [TR]](https://gelecegiyazanlar.turkcell.com.tr/)
   - [BTK Akademi - [TR]](https://www.btkakademi.gov.tr/portal)
   - [Bilgeİş - [TR]](https://bilgeis.net/)
+
+<br>
+
+**<a href="#top">⬆ back to top ⬆</a>**
+
+</div>
+
+<br>
+
+<div align="left">
+
+<h3 id="SourceResearch" >Source Research:</h3>
+
+- [DevDocs](https://devdocs.io/)
+- [Design Resources](https://designresourc.es/)
+- [Free JavaScript Resources](https://www.java5cript.com/)
+- [Web Development Resources](https://web-dev-resources.com/)
+- [Free for Developers](https://free-for.dev/)
+- [Dev Resources](https://devresourc.es/)
+- [Public APIs](https://publicapis.dev/)
+
+<br>
+
+- [Türkçe Kaynaklar - [TR]](https://turkcekaynaklar.com/)
 
 <br>
 
