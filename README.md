@@ -16,7 +16,7 @@
 
 <h1 id="Resources">Resources</h1>
 
-**<a href="#Links">Helpful / Useful Links</a> | <a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a> | <a href="#Components">Ready to use Components</a>**
+**<a href="#Links">Helpful / Useful Links</a> | <a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Course-Training-Certificate">Courses, Trainings and Certificates</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a> | <a href="#Components">Ready to use Components</a>**
 
 <br>
 
@@ -69,7 +69,6 @@
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [web.dev (Google)](https://web.dev/)
 
@@ -182,6 +181,37 @@
 <br>
 
 - [NuxtJS - (Abdullah Uğraşkan) - [TR]](https://www.youtube.com/playlist?list=PLf-6qk7szL-KlV2rONxuytTWrgb66oMnt)
+
+<br>
+
+**<a href="#top">⬆ back to top ⬆</a>**
+
+</div>
+
+<br>
+
+<div align="left">
+
+<h3 id="Course-Training-Certificate" >Course, Training and Certificate program sites:</h3>
+
+- **Training and Certificate program sites:**
+
+  - [freeCodeCamp](https://www.freecodecamp.org/)
+  - [HackerRank](https://www.hackerrank.com/)
+
+<br>
+
+- **Course and Certificate program sites:**
+
+  - [Udemy](https://www.udemy.com/)
+  - [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/)
+
+    <br>
+
+  - [Patika.dev - [TR]](https://app.patika.dev/paths)
+  - [Geleceği Yazanlar - [TR]](https://gelecegiyazanlar.turkcell.com.tr/)
+  - [BTK Akademi - [TR]](https://www.btkakademi.gov.tr/portal)
+  - [Bilgeİş - [TR]](https://bilgeis.net/)
 
 <br>
 
