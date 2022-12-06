@@ -180,6 +180,11 @@
 
 <br>
 
+- [Örneklerle Frontend - (Mehmet Pekcan) - [TR]](https://www.youtube.com/playlist?list=PLf3cxVeAm43_X_RVm-N-vUR5D6-kLIhw4)
+- [Sıfırdan İleri Seviye Next.js (v13) - (Mehmet Pekcan) - [TR]](https://www.youtube.com/playlist?list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2)
+
+<br>
+
 - [NuxtJS - (Abdullah Uğraşkan) - [TR]](https://www.youtube.com/playlist?list=PLf-6qk7szL-KlV2rONxuytTWrgb66oMnt)
 
 <br>
