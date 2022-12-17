@@ -95,8 +95,13 @@
 
 <h4>[EN]</h4>
 
-- [Vue.js Course for Beginners [2021 Tutorial] - (freeCodeCamp.org)](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 - [JavaScript Programming - Full Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=jS4aFq5-91M&t=10s)
+- [React State Management – Intermediate JavaScript Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=-bEzt5ISACA)
+- [Vue.js Course for Beginners [2021 Tutorial] - (freeCodeCamp.org)](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+
+<br>
+
+- [JavaScript Tutorial - Create a Card Game - (freeCodeCamp.org)](https://www.youtube.com/watch?v=Bj6lC93JMi0)
 
 <br>
 
@@ -160,21 +165,24 @@
 </details>
 
 <details>
-<summary>Yazılım Bilimi</summary>
-
-- [HTML,CSS, Flexbox ve Bootstrap Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHdvlKx7q1HTAar-Hm-4wwgu)
-
-</details>
-
-<details>
 <summary>Arin Yazilim</summary>
 
 - [CSS3 Transition, Transform ve Animation Özellikleri](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-aV5Ufbz2uqNn0dexuIDtZ)
 - [İleri HTML - CSS - SASS Dersleri](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-vDG20Xer4R2vW5AX602wI)
 - [Bootstrap 5](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9G3bik1W-RpPTyZ1JIkayG)
+- [Yeni Başlayanlar İçin TAILWIND CSS](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-Oc898YeSkcHTAAS2K2S3f)
 - [Uygulamalı Javascript Dersleri](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_NyzNPVyyg-KIyhlfXsTlD)
 - [JavaScript Karmaşası](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-lamHDwl1J1oI4nwCYYW30)
 - [Yeni Başlayanlar İçin React](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy)
+- [Yeni Başlayanlar İçin Context API - Hooks](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_mu7YEyg91-qTCR6YXeOrd)
+
+</details>
+
+<details>
+<summary>Mehmet Pekcan</summary>
+
+- [Örneklerle Frontend](https://www.youtube.com/playlist?list=PLf3cxVeAm43_X_RVm-N-vUR5D6-kLIhw4)
+- [Sıfırdan İleri Seviye Next.js (v13)](https://www.youtube.com/playlist?list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2)
 
 </details>
 
@@ -205,6 +213,13 @@
 </details>
 
 <details>
+<summary>Yazılım Bilimi</summary>
+
+- [HTML,CSS, Flexbox ve Bootstrap Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHdvlKx7q1HTAar-Hm-4wwgu)
+
+</details>
+
+<details>
 <summary>PC Uzmanı</summary>
 
 - [ReactJS Eğitim Seti 2022](https://www.youtube.com/playlist?list=PLwFzoBz-lBeszxZsvmcSMaWGC8oo15ev3)
@@ -217,14 +232,6 @@
 - [React Context](https://www.youtube.com/playlist?list=PLXRxVej0t57bny6bAaemXBFuMfe-D9ELr)
 - [React Hooks](https://www.youtube.com/playlist?list=PLXRxVej0t57ZfVutPXqJRCp07CCcemCEf)
 - [React Custom Hooks](https://www.youtube.com/playlist?list=PLXRxVej0t57asfgMHpBJdGqKSe6o_PF_F)
-
-</details>
-
-<details>
-<summary>Mehmet Pekcan</summary>
-
-- [Örneklerle Frontend](https://www.youtube.com/playlist?list=PLf3cxVeAm43_X_RVm-N-vUR5D6-kLIhw4)
-- [Sıfırdan İleri Seviye Next.js (v13)](https://www.youtube.com/playlist?list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2)
 
 </details>
 
