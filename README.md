@@ -615,6 +615,7 @@
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+- [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
