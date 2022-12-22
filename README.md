@@ -507,6 +507,7 @@
 - [Gradient Text-Shadow](https://www.csstextshadoweditor.com/)
 - [Mesh Gradient](https://csshero.org/mesher/)
 - [Mesh Gradient](https://colorffy.com/mesh-gradient-generator)
+- [Gradient](https://cssgradient.io/)
 - [Gradient](https://colorffy.com/gradient-generator)
 - [Gradient](https://www.cssgradienteditor.com/)
 - [Accordion Slider Generator](https://accordionslider.com/)
