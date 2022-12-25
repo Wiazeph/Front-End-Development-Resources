@@ -514,6 +514,7 @@
 - [Gradient](https://cssgradient.io/)
 - [Gradient](https://colorffy.com/gradient-generator)
 - [Gradient](https://www.cssgradienteditor.com/)
+- [Tailwind CSS Gradient Generator](https://tailwindcomponents.com/gradient-generator/)
 - [Accordion Slider Generator](https://accordionslider.com/)
 - [CSS Stripes Generator](https://stripesgenerator.com/)
 - [Keyframes Generator](https://keyframes.app/)
