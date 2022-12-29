@@ -8,21 +8,17 @@
 
 <hr width="50%">
 
-**<a href="#Resources">Resources</a> | <a href="#Tools">Tools</a> | <a href="#Extensions">Extensions</a> | <a href="#Jobs-Careers">Jobs/Careers</a>**
+**<a href="#Links">Helpful / Useful Links</a> | <a href="#Resources">Resources</a> | <a href="#Tools">Tools</a> | <a href="#Extensions">Extensions</a> | <a href="#Jobs-Careers">Jobs/Careers</a>**
 
 <hr width="75%">
 
 <br>
 
-<h1 id="Resources">Resources</h1>
-
-**<a href="#Links">Helpful / Useful Links</a> | <a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Course-Training-Certificate">Courses, Trainings and Certificates</a> | <a href="#SourceResearch">Source Research</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a> | <a href="#Components">Ready to use Components</a>**
+<h1 id="Links">Helpful / Useful Links</h1>
 
 <br>
 
 <div align="left">
-
-<h3 id="Links" >Helpful / Useful Links:</h3>
 
 - [VSCode - (Web Editor)](https://vscode.dev/)
 - [Codepen.io](https://codepen.io/)
@@ -64,6 +60,14 @@
 **<a href="#top">⬆ back to top ⬆</a>**
 
 </div>
+
+<br>
+
+---
+
+<h1 id="Resources">Resources</h1>
+
+**<a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Course-Training-Certificate">Courses, Trainings and Certificates</a> | <a href="#SourceResearch">Source Research</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a> | <a href="#Components">Ready to use (...)</a>**
 
 <br>
 
@@ -382,7 +386,7 @@
 
 <div align="left">
 
-<h3 id="Components" >Ready to use Components:</h3>
+<h3 id="Components" >Ready to use (...) :</h3>
 
 - [Flowbite - (Components of Tailwind CSS)](https://flowbite.com/)
 
@@ -392,6 +396,7 @@
 - [Box-Shadows](https://getcssscan.com/css-box-shadow-examples)
 - [Gradient Buttons](https://gradientbuttons.colorion.co/)
 - [Buttons](https://markodenic.com/tools/buttons-generator/)
+- [Collection of CSS Animations](https://xsgames.co/animatiss/?ref=producthunt)
 - [Popular Layouts and Patterns](https://csslayout.io/)
 
 <br>
