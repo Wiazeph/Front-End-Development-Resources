@@ -16,6 +16,8 @@
 
 <h1 id="Links">Helpful / Useful Links</h1>
 
+**<a href="#Algorithm">Battle / Q&A / Algorithm</a>**
+
 <br>
 
 <div align="left">
@@ -54,6 +56,26 @@
 
 - [Freelancer Guide](https://freelancer.guide/)
 - [Uzaktan Çalışmak - [TR]](https://uzaktancalismak.com/)
+
+<br>
+
+**<a href="#top">⬆ back to top ⬆</a>**
+
+</div>
+
+<br>
+
+<div align="left">
+
+<h3 id="Algorithm" >Battle / Q&A / Algorithm:</h3>
+
+- **Battle:**
+  - [CSSBattle](https://cssbattle.dev/)
+
+<br>
+
+- **Question / Answer:**
+  - [JavaScript is Weird](https://jsisweird.com/)
 
 <br>
 
