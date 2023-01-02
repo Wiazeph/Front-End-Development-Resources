@@ -284,6 +284,12 @@
 
 <h3 id="Course-Training-Certificate" >Course, Training and Certificate program sites:</h3>
 
+- **Course program sites:**
+
+  - [Frontend Masters](https://frontendmasters.com/)
+
+<br>
+
 - **Training and Certificate program sites:**
 
   - [freeCodeCamp](https://www.freecodecamp.org/)
