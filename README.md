@@ -16,7 +16,7 @@
 
 <h1 id="Links">Helpful / Useful Links</h1>
 
-**<a href="#Algorithm">Battle / Q&A / Algorithm</a>**
+**<a href="#Algorithm">Challenges / Battle / Q&A / Algorithm</a>**
 
 <br>
 
@@ -67,7 +67,13 @@
 
 <div align="left">
 
-<h3 id="Algorithm" >Battle / Q&A / Algorithm:</h3>
+<h3 id="Algorithm" >Challenges / Battle / Q&A / Algorithm:</h3>
+
+- **Challenges:**
+  - [Frontend Mentor](https://www.frontendmentor.io/challenges)
+  - [codewars](https://www.codewars.com/)
+
+<br>
 
 - **Battle:**
   - [CSSBattle](https://cssbattle.dev/)
