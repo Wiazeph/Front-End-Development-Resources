@@ -534,25 +534,71 @@
 
 <h3 id="CSS-Generators" >CSS Generators:</h3>
 
+- <details>
+    <summary>Glassmorphism Generator</summary>
+
+  - [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
+  - [Glassmorphism Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
+  - [Glassmorphism Generator](https://ui.glass/generator/#)
+  - [Glassmorphism Generator](https://glassgenerator.netlify.app/)
+
+  </details>
+
+- <details>
+    <summary>Gradient</summary>
+
+  - [Gradient](https://cssgradient.io/)
+  - [Gradient](https://colorffy.com/gradient-generator)
+  - [Gradient](https://www.cssgradienteditor.com/)
+
+  </details>
+
+- <details>
+    <summary>Mesh Gradient</summary>
+
+  - [Mesh Gradient](https://csshero.org/mesher/)
+  - [Mesh Gradient](https://colorffy.com/mesh-gradient-generator)
+
+  </details>
+
+- <details>
+   <summary>Background Wave SVG Generator</summary>
+
+  - [Custom Shape Dividers](https://www.shapedivider.app/)
+  - [Background Wave SVG Generator](https://app.haikei.app/)
+  - [Background Wave SVG Generator](https://getwaves.io/)
+
+  </details>
+
+- <details>
+   <summary>Border Radius Generator</summary>
+
+  - [Blobmaker](https://www.blobmaker.app/)
+  - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
+
+  </details>
+
+- <details>
+   <summary>Box-Shadow - Gradiend Box-Shadow</summary>
+
+  - [Box-Shadow](https://shadows.brumm.af/)
+  - [Box-Shadow](https://cssbud.com/css-generator/css-glow-generator/)
+  - [Gradient Box-Shadow](https://alvarotrigo.com/shadow-gradients/)
+
+  </details>
+
+- <details>
+   <summary>Grid Generator</summary>
+
+  - [Grid Generator](https://grid.layoutit.com/)
+  - [Grid Generator](https://cssgrid-generator.netlify.app/)
+
+  </details>
+
 - [Flexbox Generator](https://loading.io/flexbox/)
-- [Grid Generator](https://grid.layoutit.com/)
-- [Background Wave SVG Generator](https://app.haikei.app/)
-- [Custom Shape Dividers](https://www.shapedivider.app/)
-- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
 - [Neumorphism Generator](https://neumorphism.io/)
-- [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
-- [Glassmorphism Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
-- [Glassmorphism Generator](https://ui.glass/generator/#)
-- [Glassmorphism Generator](https://glassgenerator.netlify.app/)
 - [Text Gradient](https://colorffy.com/text-gradient-generator)
-- [Box-Shadow](https://shadows.brumm.af/)
-- [Gradient Box-Shadow](https://alvarotrigo.com/shadow-gradients/)
 - [Gradient Text-Shadow](https://www.csstextshadoweditor.com/)
-- [Mesh Gradient](https://csshero.org/mesher/)
-- [Mesh Gradient](https://colorffy.com/mesh-gradient-generator)
-- [Gradient](https://cssgradient.io/)
-- [Gradient](https://colorffy.com/gradient-generator)
-- [Gradient](https://www.cssgradienteditor.com/)
 - [Tailwind CSS Gradient Generator](https://tailwindcomponents.com/gradient-generator/)
 - [Accordion Slider Generator](https://accordionslider.com/)
 - [CSS Stripes Generator](https://stripesgenerator.com/)
