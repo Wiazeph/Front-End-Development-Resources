@@ -50,6 +50,7 @@
 
 - [Ubuntu pastebin](https://pastebin.ubuntu.com/)
 - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [GitHub Contributions Chart Generator](https://github-contributions.vercel.app/)
 - [Carbon - (Create and Share beautiful images of your source code)](https://carbon.now.sh/)
 
 <br>
