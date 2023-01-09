@@ -96,7 +96,7 @@
 
 <h1 id="Resources">Resources</h1>
 
-**<a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Course-Training-Certificate">Courses, Trainings and Certificates</a> | <a href="#SourceResearch">Source Research</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a> | <a href="#Components">Ready to use (...)</a>**
+**<a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Course-Training-Certificate">Courses, Trainings and Certificates</a> | <a href="#SourceResearch">Source Research</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a>**
 
 <br>
 
@@ -420,34 +420,11 @@
 
 <br>
 
-<div align="left">
-
-<h3 id="Components" >Ready to use (...) :</h3>
-
-- [Flowbite - (Components of Tailwind CSS)](https://flowbite.com/)
-
-<br>
-
-- [uiverse - (Buttons-Loaders-Checkboxes-Toggle Switches-Inputs-Cards)](https://uiverse.io/)
-- [Box-Shadows](https://getcssscan.com/css-box-shadow-examples)
-- [Gradient Buttons](https://gradientbuttons.colorion.co/)
-- [Buttons](https://markodenic.com/tools/buttons-generator/)
-- [Collection of CSS Animations](https://xsgames.co/animatiss/?ref=producthunt)
-- [Popular Layouts and Patterns](https://csslayout.io/)
-
-<br>
-
-**<a href="#top">⬆ back to top ⬆</a>**
-
-</div>
-
-<br>
-
 ---
 
 <h1 id="Tools">Tools</h1>
 
-**<a href="#Icons">Icons</a> | <a href="#Colors">Colors</a> | <a href="#Fonts">Fonts</a> | <a href="#Images-Videos">Stock Photos/Images/Videos</a> | <a href="#CSS-Generators">CSS Generators</a> | <a href="#Host">Host</a> | <a href="#API">API</a>**
+**<a href="#Icons">Icons</a> | <a href="#Colors">Colors</a> | <a href="#Fonts">Fonts</a> | <a href="#Images-Videos">Stock Photos/Images/Videos</a> | <a href="#CSS-Generators">CSS Generators</a> | <a href="#Components">Ready to use (...)</a> | <a href="#Host">Host</a> | <a href="#API">API</a>**
 
 <br>
 
@@ -607,6 +584,29 @@
 - [Keyframes Generator](https://keyframes.app/)
 - [Loader Animations](https://loading.io/)
 - [CSS / SCSS color variables generator](https://colorffy.com/css-generator)
+
+<br>
+
+**<a href="#top">⬆ back to top ⬆</a>**
+
+</div>
+
+<br>
+
+<div align="left">
+
+<h3 id="Components" >Ready to use (...) :</h3>
+
+- [Flowbite - (Components of Tailwind CSS)](https://flowbite.com/)
+
+<br>
+
+- [uiverse - (Buttons-Loaders-Checkboxes-Toggle Switches-Inputs-Cards)](https://uiverse.io/)
+- [Box-Shadows](https://getcssscan.com/css-box-shadow-examples)
+- [Gradient Buttons](https://gradientbuttons.colorion.co/)
+- [Buttons](https://markodenic.com/tools/buttons-generator/)
+- [Collection of CSS Animations](https://xsgames.co/animatiss/?ref=producthunt)
+- [Popular Layouts and Patterns](https://csslayout.io/)
 
 <br>
 
