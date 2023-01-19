@@ -132,12 +132,23 @@
 
 <h4>[EN]</h4>
 
+- [Learn Tailwind CSS – Course for Beginners - (freeCodeCamp.org)](https://www.youtube.com/watch?v=ft30zcMlFao)
+
+<br>
+
+- [JavaScript Full Course - (Bro Code)](https://www.youtube.com/watch?v=8dWL3wF_OMw)
 - [JavaScript Programming - Full Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=jS4aFq5-91M&t=10s)
+
+<br>
+
 - [React State Management – Intermediate JavaScript Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=-bEzt5ISACA)
 - [Vue.js Course for Beginners [2021 Tutorial] - (freeCodeCamp.org)](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 
 <br>
 
+- [10 JavaScript Projects in 10 Hours - Coding Challenge - (freeCodeCamp.org)](https://www.youtube.com/watch?v=dtKciwk_si4)
+- [Build 15 JavaScript Projects - Vanilla JavaScript Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+- [Build A Calculator With JavaScript Tutorial - (freeCodeCamp.org)](https://www.youtube.com/watch?v=j59qQ7YWLxw)
 - [JavaScript Tutorial - Create a Card Game - (freeCodeCamp.org)](https://www.youtube.com/watch?v=Bj6lC93JMi0)
 
 <br>
@@ -218,7 +229,9 @@
 <details>
 <summary>Mehmet Pekcan</summary>
 
-- [Örneklerle Frontend](https://www.youtube.com/playlist?list=PLf3cxVeAm43_X_RVm-N-vUR5D6-kLIhw4)
+- [Örneklerle Frontend - HTML, CSS, JS](https://www.youtube.com/playlist?list=PLf3cxVeAm43_X_RVm-N-vUR5D6-kLIhw4)
+- [Örneklerle Frontend - React.js](https://www.youtube.com/playlist?list=PLf3cxVeAm439TlhqEigWZ4jF5M9_TayYe)
+- [Next.js v13 İlk Bakış](https://www.youtube.com/playlist?list=PLf3cxVeAm43_CqgxN7DSaksbNO81H6V1A)
 - [Sıfırdan İleri Seviye Next.js (v13)](https://www.youtube.com/playlist?list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2)
 
 </details>
