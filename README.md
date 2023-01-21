@@ -229,6 +229,7 @@
 <details>
 <summary>Mehmet Pekcan</summary>
 
+- [Modern Javascript](https://www.youtube.com/playlist?list=PLf3cxVeAm439cpgIzbcnpbvFkLNw7KYxW)
 - [Örneklerle Frontend - HTML, CSS, JS](https://www.youtube.com/playlist?list=PLf3cxVeAm43_X_RVm-N-vUR5D6-kLIhw4)
 - [Örneklerle Frontend - React.js](https://www.youtube.com/playlist?list=PLf3cxVeAm439TlhqEigWZ4jF5M9_TayYe)
 - [Next.js v13 İlk Bakış](https://www.youtube.com/playlist?list=PLf3cxVeAm43_CqgxN7DSaksbNO81H6V1A)
