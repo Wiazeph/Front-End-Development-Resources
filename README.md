@@ -293,6 +293,25 @@
 
 </details>
 
+<details>
+<summary>Mehmet Pekcan</summary>
+
+- [Modern JavaScript](https://www.youtube.com/watch?v=rctJFP4-5nU&list=PLf3cxVeAm439cpgIzbcnpbvFkLNw7KYxW)
+- [Örneklerle Frontend - HTML, CSS](https://www.youtube.com/watch?v=wwNmr40wrs4&list=PLf3cxVeAm43_X_RVm-N-vUR5D6-kLIhw4)
+- [Sıfırdan İleri Seviye Next.js v13](https://www.youtube.com/watch?v=QLFahNliOW0&list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2)
+
+</details>
+
+<details>
+<summary>Enes Bayram</summary>
+
+- [HTML Dersleri](https://www.youtube.com/watch?v=Y86zzWRle3g&list=PLURN6mxdcwL_dk2ftGRrvt4R2TqfIUysy)
+- [CSS Dersleri](https://www.youtube.com/watch?v=TjcMDa4Bnu4&list=PLURN6mxdcwL_QVUfw37hf-PfVXnVwlRRq)
+- [Bootstrap Dersleri](https://www.youtube.com/watch?v=8QP-8NPpSq0&list=PLURN6mxdcwL_sM23fQLdwvzC9Qh0N5RPI)
+- [JavaScript Dersleri](https://www.youtube.com/watch?v=mcwBvvThO40&list=PLURN6mxdcwL86Q8tCF1Ef6G6rN2jAg5Ht)
+
+</details>
+
 <br>
 
 **<a href="#top">⬆ back to top ⬆</a>**
@@ -497,6 +516,7 @@
 - [fontpair](https://www.fontpair.co/)
 - [fontspace](https://www.fontspace.com/)
 - [fontfabric](https://www.fontfabric.com/)
+- [fontshare](https://www.fontshare.com/)
 
 <br>
 
