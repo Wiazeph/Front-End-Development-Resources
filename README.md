@@ -294,15 +294,6 @@
 </details>
 
 <details>
-<summary>Mehmet Pekcan</summary>
-
-- [Modern JavaScript](https://www.youtube.com/watch?v=rctJFP4-5nU&list=PLf3cxVeAm439cpgIzbcnpbvFkLNw7KYxW)
-- [Örneklerle Frontend - HTML, CSS](https://www.youtube.com/watch?v=wwNmr40wrs4&list=PLf3cxVeAm43_X_RVm-N-vUR5D6-kLIhw4)
-- [Sıfırdan İleri Seviye Next.js v13](https://www.youtube.com/watch?v=QLFahNliOW0&list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2)
-
-</details>
-
-<details>
 <summary>Enes Bayram</summary>
 
 - [HTML Dersleri](https://www.youtube.com/watch?v=Y86zzWRle3g&list=PLURN6mxdcwL_dk2ftGRrvt4R2TqfIUysy)
@@ -481,6 +472,8 @@
 - [Boxicons](https://boxicons.com/)
 - [Flaticons](https://www.flaticon.com/)
 - [Simple Icons](https://simpleicons.org/)
+- [Glyphs Icons](https://glyphs.fyi/)
+- [Bunch Icons](https://www.bunchof.design/)
 
 <br>
 
