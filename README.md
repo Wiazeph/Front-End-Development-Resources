@@ -438,6 +438,10 @@
 
 <br>
 
+- [HTMLrev - (Landing page HTML templates)](https://htmlrev.com/)
+
+<br>
+
 **<a href="#top">⬆ back to top ⬆</a>**
 
 </div>
