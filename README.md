@@ -493,6 +493,8 @@
 - [Colorsinspo](https://colorsinspo.com/)
 - [Color Hunt](https://colorhunt.co/)
 - [colorsandfonts.](https://www.colorsandfonts.com/)
+- [colordesigner](https://colordesigner.io/)
+- [colorshadowlord/](https://noeldelgado.github.io/shadowlord/)
 
 <br>
 
@@ -528,6 +530,8 @@
 - [Unsplash](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
 - [Lorem Picsum](https://picsum.photos/)
+- [Storyset](https://storyset.com/)
+- [Undraw](https://undraw.co/illustrations)
 
 <br>
 
