@@ -446,6 +446,7 @@
 
 <h3 id="Icons" >Icons:</h3>
 
+- [SVGPS](https://svgps.app/)
 - [Google Icons](https://fonts.google.com/icons)
 - [Hero Icons](https://heroicons.com/)
 - [CSS.gg](https://css.gg/)
