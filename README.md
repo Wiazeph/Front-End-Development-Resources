@@ -643,6 +643,8 @@
 - [Buttons](https://markodenic.com/tools/buttons-generator/)
 - [Collection of CSS Animations](https://xsgames.co/animatiss/?ref=producthunt)
 - [Popular Layouts and Patterns](https://csslayout.io/)
+- [50 Free SVG Mesh Gradients](https://svggradients.com/)
+- [A free collection of 208 SVG Doodles](https://svgdoodles.com)
 
 <br>
 
