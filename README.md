@@ -187,10 +187,12 @@
 
 - [CSS Dersleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I)
 - [Tailwind CSS Dersleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrH4XrypjsFVxrRKkcKb_4Tn)
-- [30 Günde Javascript](https://www.youtube.com/playlist?list=PLfAfrKyDRWrGIER-yXLliD_47T_5FY8Qd)
+- [JavaScript](https://www.youtube.com/playlist?list=PLfAfrKyDRWrEPrXqp-RA4xG5QWojNip9a)
+- [30 Günde JavaScript](https://www.youtube.com/playlist?list=PLfAfrKyDRWrGIER-yXLliD_47T_5FY8Qd)
 - [Front-end Alıştırmaları](https://www.youtube.com/playlist?list=PLfAfrKyDRWrFg0byGVf_uJxyPPumWDSRA)
 - [React + Tailwind = UI Clone Projeleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrE4Xl7eWBFdC92pOwywbb3e)
 - [React Örnekleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrEkpnC6STed0iVBBZzw5mGj)
+- [TypeScript Dersleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrHHC_routvb5WEviGZbJA0w)
 
 </details>
 
