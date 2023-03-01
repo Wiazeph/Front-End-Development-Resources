@@ -638,6 +638,7 @@
 
 - [Flowbite - (Components of Tailwind CSS)](https://flowbite.com/)
 - [Headless UI - (Components of Tailwind CSS for Vue/React)](https://headlessui.com/)
+- [daisyUI - (Components of Tailwind CSS for Vue, React, ...)](https://daisyui.com/)
 
 <br>
 
