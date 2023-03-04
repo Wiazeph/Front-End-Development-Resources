@@ -474,6 +474,8 @@
 - [Feather Icons](https://feathericons.com/)
 - [Line Icons](https://lineicons.com/)
 - [Tabler Icons](https://tablericons.com/)
+- [Iconoir](https://iconoir.com/)
+- [Phosphor](https://phosphoricons.com/)
 - [Remix Icon](https://remixicon.com/)
 - [Icon Scout](https://iconscout.com/)
 - [Boxicons](https://boxicons.com/)
@@ -481,6 +483,7 @@
 - [Simple Icons](https://simpleicons.org/)
 - [Glyphs Icons](https://glyphs.fyi/)
 - [Bunch Icons](https://www.bunchof.design/)
+- [IconPark](https://iconpark.oceanengine.com/official)
 
 <br>
 
