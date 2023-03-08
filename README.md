@@ -505,6 +505,7 @@
 - [colorsandfonts.](https://www.colorsandfonts.com/)
 - [colordesigner](https://colordesigner.io/)
 - [colorshadowlord/](https://noeldelgado.github.io/shadowlord/)
+- [Shadowlord - Tints and Shades Colors](https://noeldelgado.github.io/shadowlord/)
 
 <br>
 
