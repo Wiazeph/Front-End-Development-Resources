@@ -645,6 +645,7 @@
 - [Headless UI - (Components of Tailwind CSS for Vue/React)](https://headlessui.com/)
 - [daisyUI - (Components of Tailwind CSS for Vue, React, ...)](https://daisyui.com/)
 - [Material Tailwind - (Components Library for Tailwind CSS and Material Design)](https://www.material-tailwind.com/)
+- [Tailblocks - (Ready-to-use Tailwind CSS Blocks)](https://tailblocks.cc/)
 
 <br>
 
