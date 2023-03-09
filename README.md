@@ -442,6 +442,9 @@
 <br>
 
 - [HTMLrev - (Landing page HTML templates)](https://htmlrev.com/)
+- [HTML5 UP - (Responsive HTML5 and CSS3 Site Templates)](https://html5up.net/)
+- [GrayGrids - (HTML, Bootstrap, Tailwind Templates)](https://graygrids.com/)
+- [UIdeck - (HTML Templates, Bootstrap Themes, Tailwind, and React Templates)](https://uideck.com/templates/)
 
 <br>
 
