@@ -132,6 +132,7 @@
 
 <h4>[EN]</h4>
 
+- [Learn Tailwind CSS - Full Course for Beginners [4 Hours] - (CodewithGuillaume)](https://www.youtube.com/watch?v=nL7LE4KJDoE)
 - [Learn Tailwind CSS – Course for Beginners - (freeCodeCamp.org)](https://www.youtube.com/watch?v=ft30zcMlFao)
 
 <br>
@@ -143,6 +144,7 @@
 
 - [React State Management – Intermediate JavaScript Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=-bEzt5ISACA)
 - [Vue.js Course for Beginners [2021 Tutorial] - (freeCodeCamp.org)](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [Learn Nuxt 3 - Full Course for Beginners [3 Hours] - (CodewithGuillaume)](https://www.youtube.com/watch?v=ww94Jvi8JJo)
 
 <br>
 
