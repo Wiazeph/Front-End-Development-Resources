@@ -2,13 +2,12 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue Powered Static Site Generator
-  tagline: Simple, powerful, and fast. Meet the modern SSG framework you've always wanted.
+  name: "Front-End Development Resources"
+  tagline: An amazing repository where you can discover a plethora of resources related to Front-End Development, which will make your life easier.
   actions:
     - theme: brand
       text: Get Started
-      link: /resources/
+      link: /introduction
     - theme: alt
       text: View on GitHub
       link: https://github.com/emr3rden/Front-End-Development-Resources
