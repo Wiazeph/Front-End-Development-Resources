@@ -31,5 +31,10 @@ export default defineConfig({
         link: "https://github.com/emr3rden/Front-End-Development-Resources",
       },
     ],
+    editLink: {
+      pattern:
+        "https://github.com/emr3rden/Front-End-Development-Resources/edit/main/docs/:path",
+      text: "Edit this page on GitHub",
+    },
   },
 });
