@@ -1,17 +1,18 @@
 {
-  "name": "frontendweb",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "docus-starter",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview",
+    "lint": "eslint ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "vitepress": "^1.0.0-alpha.58"
+  "devDependencies": {
+    "@nuxt-themes/docus": "^1.9.0",
+    "@nuxt/eslint-config": "^0.1.1",
+    "eslint": "^8.35.0",
+    "nuxt": "^3.2.2"
   }
 }

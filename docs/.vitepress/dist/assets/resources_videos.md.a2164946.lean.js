@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as t,N as a}from"./chunks/framework.3d3bd3d9.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"resources/videos.md"}'),l={name:"resources/videos.md"},i=a("",25),s=[i];function o(u,w,n,m,f,p){return r(),t("div",null,s)}const c=e(l,[["render",o]]);export{h as __pageData,c as default};
