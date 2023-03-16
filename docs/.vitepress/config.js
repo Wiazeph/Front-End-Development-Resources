@@ -52,6 +52,7 @@ export default defineConfig({
             text: "Stock Media Resources",
             link: "/tools/stock-media-resources",
           },
+          { text: "CSS Generators", link: "/tools/css-generators" },
         ],
       },
     ],
