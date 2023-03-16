@@ -99,6 +99,8 @@
 
 ---
 
+<br>
+
 <h1 id="Resources">Resources</h1>
 
 **<a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Courses">Courses</a> | <a href="#Certificates">Certificate Programs</a> | <a href="#Training-Battles">Trainings and Code Battles Sites</a> | <a href="#SourceResearch">Source Research</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a>**
@@ -109,7 +111,7 @@
 
 <h2 id="Document-Resources" >Document Resources</h2>
 
-<h3>General Resources</h3>
+<h3>General Resources:</h3>
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com/)
@@ -118,7 +120,7 @@
 
 <br>
 
-<h3>Specific Resources</h3>
+<h3>Specific Resources:</h3>
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [cssreference.io](https://cssreference.io/)
@@ -146,13 +148,13 @@
 
 <h2 id="Video-Resources" >Video Resources</h2>
 
-<h3>HTML</h3>
+<h3>HTML:</h3>
 
 - [[TR] - HTML Dersleri - (Enes Bayram)](https://www.youtube.com/watch?v=Y86zzWRle3g&list=PLURN6mxdcwL_dk2ftGRrvt4R2TqfIUysy)
 
 <br>
 
-<h3>CSS</h3>
+<h3>CSS:</h3>
 
 - [[TR] - Sıfırdan CSS Eğitim - (Adem İlter)](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y)
 - [[TR] - CSS Anlat - (Adem İlter)](https://www.youtube.com/playlist?list=PLadt0EaV4m3CV5URFStcmOMMP-G9Bf8LG)
@@ -162,11 +164,11 @@
 
 <br>
 
-<h3>SASS/SCSS</h3>
+<h3>SASS/SCSS:</h3>
 
 - [[TR] - SASS Eğitim Serisi - (Uğur Aktaş)](https://www.youtube.com/playlist?list=PLsGvMLC84GeTVDGO4xNQg5ONebjQTRtiL)
 
-<h3>Tailwind CSS</h3>
+<h3>Tailwind CSS:</h3>
 
 - [[EN] - Tailwind CSS - Course for Beginners - (CodewithGuillaume)](https://www.youtube.com/watch?v=nL7LE4KJDoE)
 - [[EN] - Tailwind CSS – Course for Beginners - (freeCodeCamp.org)](https://www.youtube.com/watch?v=ft30zcMlFao)
@@ -181,14 +183,14 @@
 
 <br>
 
-<h3>Bootstrap</h3>
+<h3>Bootstrap:</h3>
 
 - [[TR] - Bootstrap Dersleri - (Enes Bayram)](https://www.youtube.com/watch?v=8QP-8NPpSq0&list=PLURN6mxdcwL_sM23fQLdwvzC9Qh0N5RPI)
 - [[TR] - Bootstrap 5 - (Arin Yazilim)](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9G3bik1W-RpPTyZ1JIkayG)
 
 <br>
 
-<h3>JavaScript</h3>
+<h3>JavaScript:</h3>
 
 - [[EN] - JavaScript - Full Course - (Bro Code)](https://www.youtube.com/watch?v=8dWL3wF_OMw)
 - [[EN] - JavaScript - Full Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=jS4aFq5-91M&t=10s)
@@ -213,7 +215,7 @@
 
 <br>
 
-<h3>React</h3>
+<h3>React:</h3>
 
 - [[EN] - React State Management – Intermediate Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=-bEzt5ISACA)
 
@@ -229,7 +231,7 @@
 
 <br>
 
-<h3>React Hooks</h3>
+<h3>React Hooks:</h3>
 
 - [[TR] - React-Hooks - (Uğur Coşkun)](https://www.youtube.com/playlist?list=PLeS6o5hW3TG_uYZ2AKUn8GyP_piUxnfrG)
 - [[TR] - React Hooks - (codingwithdidem)](https://www.youtube.com/playlist?list=PLDq0IUpYONvRVJbqIrPDmA7Q1P0sKaCrK)
@@ -238,20 +240,20 @@
 
 <br>
 
-<h3>React Redux</h3>
+<h3>React Redux:</h3>
 
 - [[TR] - ReactJS Redux - (Uğur Aktaş)](https://www.youtube.com/playlist?list=PLsGvMLC84GeR5QXeMeVi_pBs1sd71zBV1)
 - [[TR] - React - Redux - (Uğur Coşkun)](https://www.youtube.com/playlist?list=PLeS6o5hW3TG_sdFScVQ4a637sA-Bnk8J-)
 
 <br>
 
-<h3>React Context</h3>
+<h3>React Context:</h3>
 
 - [[TR] - React Context - (Ali Özkan)](https://www.youtube.com/playlist?list=PLXRxVej0t57bny6bAaemXBFuMfe-D9ELr)
 
 <br>
 
-<h3>Next.js</h3>
+<h3>Next.js:</h3>
 
 - [[TR] - Next.js v13 İlk Bakış - (Mehmet Pekcan)](https://www.youtube.com/playlist?list=PLf3cxVeAm43_CqgxN7DSaksbNO81H6V1A)
 - [[TR] - Sıfırdan İleri Seviye Next.js (v13) - (Mehmet Pekcan)](https://www.youtube.com/playlist?list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2)
@@ -259,7 +261,7 @@
 
 <br>
 
-<h3>Vue</h3>
+<h3>Vue:</h3>
 
 - [[EN] - Vue.js - Course for Beginners [2021] - (freeCodeCamp.org)](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 
@@ -270,7 +272,7 @@
 
 <br>
 
-<h3>Nuxt.js</h3>
+<h3>Nuxt.js:</h3>
 
 - [[EN] - Nuxt 3 - Full Course for Beginners - (CodewithGuillaume)](https://www.youtube.com/watch?v=ww94Jvi8JJo)
 
@@ -280,13 +282,13 @@
 
 <br>
 
-<h3>TypeScript</h3>
+<h3>TypeScript:</h3>
 
 - [[TR] - TypeScript Dersleri - (PROTOTURK)](https://www.youtube.com/playlist?list=PLfAfrKyDRWrHHC_routvb5WEviGZbJA0w)
 
 <br>
 
-<h3>Figma</h3>
+<h3>Figma:</h3>
 
 - [[TR] - Türkçe Figma Eğitimi - (Adem İlter)](https://www.youtube.com/playlist?list=PLadt0EaV4m3BvRYFQxa4w9BWKfrzqC_p6)
 
@@ -451,7 +453,7 @@
 
 <h2 id="CheatSheets" >CheatSheets</h2>
 
-<h3>General CheatSheets</h3>
+<h3>General CheatSheets:</h3>
 
 - [OverAPI.com](https://overapi.com/)
 - [DEVHINTS.IO](https://devhints.io/)
@@ -459,13 +461,13 @@
 
 <br>
 
-<h3>VSCode CheatSheet</h3>
+<h3>VSCode CheatSheet:</h3>
 
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
 
 <br>
 
-<h3>Specific CheatSheets</h3>
+<h3>Specific CheatSheets:</h3>
 
 - [HTML-CSS (Web Development Tutorials)](https://www.internetingishard.com/)
 - [HTML](https://htmlcheatsheet.com/)
@@ -490,13 +492,13 @@
 
 <h2 id="Roadmaps" >Roadmaps</h2>
 
-<h3>General Roadmap</h3>
+<h3>General Roadmap:</h3>
 
 - [roadmap.sh](https://roadmap.sh/)
 
 <br>
 
-<h3>Front-End Roadmaps</h3>
+<h3>Front-End Roadmaps:</h3>
 
 - [WebSkills](https://andreasbm.github.io/web-skills/)
 - [Front-End Developer Roadmap](https://doc.clickup.com/4575475/d/h/4bm7k-3664/e3c8f76c93e397a)
@@ -513,7 +515,7 @@
 
 <h2 id="Templates" >Templates</h2>
 
-<h3>Figma Templates</h3>
+<h3>Figma Templates:</h3>
 
 - [UntitledUI - (UI kit and design system for Figma)](https://www.untitledui.com/)
 - [DopeUI - (Templates for Figma)](https://dopeui.co/)
@@ -521,7 +523,7 @@
 
 <br>
 
-<h3>General Templates</h3>
+<h3>General Templates:</h3>
 
 - [HTMLrev - (Landing page HTML templates)](https://htmlrev.com/)
 - [HTML5 UP - (Responsive HTML5 and CSS3 Site Templates)](https://html5up.net/)
@@ -530,13 +532,13 @@
 
 <br>
 
-<h3>Tailwind CSS Template</h3>
+<h3>Tailwind CSS Template:</h3>
 
 - [Tailwind Templates - (Templates of Tailwind CSS)](https://tailwindtemplates.co/)
 
 <br>
 
-<h3>Bootstrap Template</h3>
+<h3>Bootstrap Template:</h3>
 
 - [Bootstrap Made - (Templates of Bootstrap)](https://bootstrapmade.com/)
 
@@ -549,6 +551,8 @@
 <br>
 
 ---
+
+<br>
 
 <h1 id="Tools">Tools</h1>
 
