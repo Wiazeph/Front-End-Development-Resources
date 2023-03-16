@@ -44,7 +44,10 @@ export default defineConfig({
       {
         text: "Tools",
         collapsed: false,
-        items: [{ text: "Icons", link: "/tools/icons" }],
+        items: [
+          { text: "Icons", link: "/tools/icons" },
+          { text: "Colors", link: "/tools/colors" },
+        ],
       },
     ],
     socialLinks: [
