@@ -55,6 +55,7 @@ export default defineConfig({
           { text: "CSS Generators", link: "/tools/css-generators" },
           { text: "Ready to Use", link: "/tools/ready-to-use" },
           { text: "Hosts", link: "/tools/hosts" },
+          { text: "APIs", link: "/tools/api" },
         ],
       },
     ],
