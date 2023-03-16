@@ -500,29 +500,29 @@
 
 - [Icônes - (Icon Explorer)](https://icones.js.org/)
 - [SVGPS](https://svgps.app/)
+- [Font Awesome](https://fontawesome.com/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Hero Icons](https://heroicons.com/)
 
 <br>
 
 - [Google Icons](https://fonts.google.com/icons)
-- [Hero Icons](https://heroicons.com/)
+- [Tabler Icons](https://tablericons.com/)
+- [Line Icons](https://lineicons.com/icons/)
+- [Icon Scout](https://iconscout.com/)
+- [Remix Icon](https://remixicon.com/)
 - [CSS.gg](https://css.gg/)
 - [ionicons](https://ionic.io/ionicons)
-- [Font Awesome](https://fontawesome.com/)
-- [Bootstrap Icons](https://icons.getbootstrap.com/)
-- [IcoMoon](https://icomoon.io/)
 - [Feather Icons](https://feathericons.com/)
-- [Line Icons](https://lineicons.com/)
-- [Tabler Icons](https://tablericons.com/)
+- [Flaticons](https://www.flaticon.com/)
+- [Boxicons](https://boxicons.com/)
+- [Simple Icons](https://simpleicons.org/)
+- [IcoMoon](https://icomoon.io/#icons)
 - [Iconoir](https://iconoir.com/)
 - [Phosphor](https://phosphoricons.com/)
-- [Remix Icon](https://remixicon.com/)
-- [Icon Scout](https://iconscout.com/)
-- [Boxicons](https://boxicons.com/)
-- [Flaticons](https://www.flaticon.com/)
-- [Simple Icons](https://simpleicons.org/)
-- [Glyphs Icons](https://glyphs.fyi/)
-- [Bunch Icons](https://www.bunchof.design/)
+- [Glyphs Icons](https://glyphs.fyi/dir?i=building3)
 - [IconPark](https://iconpark.oceanengine.com/official)
+- [Bunch Icons](https://www.bunchof.design/)
 
 <br>
 

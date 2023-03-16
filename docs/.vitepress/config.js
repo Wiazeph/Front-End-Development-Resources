@@ -41,6 +41,11 @@ export default defineConfig({
           { text: "Templates", link: "/resources/templates" },
         ],
       },
+      {
+        text: "Tools",
+        collapsed: false,
+        items: [{ text: "Icons", link: "/tools/icons" }],
+      },
     ],
     socialLinks: [
       {
