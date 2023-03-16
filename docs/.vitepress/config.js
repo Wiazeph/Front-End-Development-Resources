@@ -47,6 +47,7 @@ export default defineConfig({
         items: [
           { text: "Icons", link: "/tools/icons" },
           { text: "Colors", link: "/tools/colors" },
+          { text: "Fonts", link: "/tools/fonts" },
         ],
       },
     ],
