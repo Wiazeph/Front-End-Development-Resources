@@ -57,6 +57,10 @@ export default defineConfig({
             text: "Browser",
             link: "/extensions/browser-extensions",
           },
+          {
+            text: "VSCode",
+            link: "/extensions/vscode-extensions",
+          },
         ],
       },
     ],
