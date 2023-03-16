@@ -53,5 +53,10 @@ export default defineConfig({
         "https://github.com/emr3rden/Front-End-Development-Resources/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
+    algolia: {
+      appId: "XQ4XAGI2WE",
+      apiKey: "be334c3d14926be56e4500a3427cc0f9",
+      indexName: "front-end-development-resources-roan",
+    },
   },
 });
