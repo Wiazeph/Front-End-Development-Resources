@@ -49,6 +49,16 @@ export default defineConfig({
       { text: "CSS Generators", link: "/css-generators" },
       { text: "Hosts", link: "/hosts" },
       { text: "APIs", link: "/api" },
+      {
+        text: "Extensions",
+        collapsed: false,
+        items: [
+          {
+            text: "Browser",
+            link: "/extensions/browser-extensions",
+          },
+        ],
+      },
     ],
     socialLinks: [
       {
