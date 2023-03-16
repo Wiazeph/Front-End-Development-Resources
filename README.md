@@ -712,9 +712,12 @@
 <h3 id="Host" >Host:</h3>
 
 - [Firebase (Google)](https://firebase.google.com/)
+- [AWS (Amazon)](https://aws.amazon.com/)
+
+<br>
+
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
-- [AWS (Amazon)](https://aws.amazon.com/)
 
 <br>
 
