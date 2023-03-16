@@ -103,7 +103,7 @@
 
 <h1 id="Resources">Resources</h1>
 
-**<a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Courses">Courses</a> | <a href="#Certificates">Certificate Programs</a> | <a href="#Training-Battles">Trainings and Code Battles Sites</a> | <a href="#SourceResearch">Source Research</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#Templates">Templates</a>**
+**<a href="#Document-Resources">Document Resources</a> | <a href="#Video-Resources">Video Resources</a> | <a href="#Courses">Courses</a> | <a href="#Certificates">Certificate Programs</a> | <a href="#Training-Battles">Trainings and Code Battles Sites</a> | <a href="#CheatSheets">CheatSheets</a> | <a href="#Roadmaps">Roadmaps</a> | <a href="#SourceResearch">Source Research</a> | <a href="#Templates">Templates</a>**
 
 <br>
 
@@ -427,30 +427,6 @@
 
 <div align="left">
 
-<h2 id="SourceResearch" >Source Research</h2>
-
-- [DevDocs](https://devdocs.io/)
-- [Design Resources](https://designresourc.es/)
-- [Free JavaScript Resources](https://www.java5cript.com/)
-- [Web Development Resources](https://web-dev-resources.com/)
-- [Free for Developers](https://free-for.dev/)
-- [Dev Resources](https://devresourc.es/)
-- [Public APIs](https://publicapis.dev/)
-
-<br>
-
-- [Türkçe Kaynaklar - [TR]](https://turkcekaynaklar.com/)
-
-<br>
-
-**<a href="#top">⬆ back to top ⬆</a>**
-
-</div>
-
-<br>
-
-<div align="left">
-
 <h2 id="CheatSheets" >CheatSheets</h2>
 
 <h3>General CheatSheets:</h3>
@@ -502,6 +478,30 @@
 
 - [WebSkills](https://andreasbm.github.io/web-skills/)
 - [Front-End Developer Roadmap](https://doc.clickup.com/4575475/d/h/4bm7k-3664/e3c8f76c93e397a)
+
+<br>
+
+**<a href="#top">⬆ back to top ⬆</a>**
+
+</div>
+
+<br>
+
+<div align="left">
+
+<h2 id="SourceResearch" >Source Research</h2>
+
+- [DevDocs](https://devdocs.io/)
+- [Design Resources](https://designresourc.es/)
+- [Free JavaScript Resources](https://www.java5cript.com/)
+- [Web Development Resources](https://web-dev-resources.com/)
+- [Free for Developers](https://free-for.dev/)
+- [Dev Resources](https://devresourc.es/)
+- [Public APIs](https://publicapis.dev/)
+
+<br>
+
+- [Türkçe Kaynaklar - [TR]](https://turkcekaynaklar.com/)
 
 <br>
 
