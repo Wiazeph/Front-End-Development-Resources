@@ -107,7 +107,9 @@
 
 <div align="left">
 
-<h3 id="Document-Resources" >Document Resources:</h3>
+<h2 id="Document-Resources" >Document Resources:</h2>
+
+<h3>General Resources</h3>
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com/)
@@ -115,6 +117,8 @@
 - [web.dev (Google)](https://web.dev/)
 
 <br>
+
+<h3>Specific Resources</h3>
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [cssreference.io](https://cssreference.io/)
@@ -332,8 +336,8 @@
 
 - **Training and Certificate program sites:**
 
-  - [freeCodeCamp](https://www.freecodecamp.org/)
   - [HackerRank](https://www.hackerrank.com/)
+  - [freeCodeCamp](https://www.freecodecamp.org/)
 
 <br>
 
@@ -359,7 +363,7 @@
 
 <div align="left">
 
-<h3 id="SourceResearch" >Source Research:</h3>
+<h2 id="SourceResearch" >Source Research:</h2>
 
 - [DevDocs](https://devdocs.io/)
 - [Design Resources](https://designresourc.es/)
@@ -383,7 +387,9 @@
 
 <div align="left">
 
-<h3 id="CheatSheets" >CheatSheets:</h3>
+<h2 id="CheatSheets" >CheatSheets:</h2>
+
+<h3>General CheatSheets</h3>
 
 - [OverAPI.com](https://overapi.com/)
 - [DEVHINTS.IO](https://devhints.io/)
@@ -391,9 +397,13 @@
 
 <br>
 
+<h3>VSCode CheatSheet</h3>
+
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
 
 <br>
+
+<h3>Specific CheatSheets</h3>
 
 - [HTML-CSS (Web Development Tutorials)](https://www.internetingishard.com/)
 - [HTML](https://htmlcheatsheet.com/)
@@ -416,9 +426,16 @@
 
 <div align="left">
 
-<h3 id="Roadmaps" >Roadmaps:</h3>
+<h2 id="Roadmaps" >Roadmaps:</h2>
+
+<h3>General Roadmap</h3>
 
 - [roadmap.sh](https://roadmap.sh/)
+
+<br>
+
+<h3>Front-End Roadmaps</h3>
+
 - [WebSkills](https://andreasbm.github.io/web-skills/)
 - [Front-End Developer Roadmap](https://doc.clickup.com/4575475/d/h/4bm7k-3664/e3c8f76c93e397a)
 
@@ -432,7 +449,9 @@
 
 <div align="left">
 
-<h3 id="Templates" >Templates:</h3>
+<h2 id="Templates" >Templates:</h2>
+
+<h3>Figma Templates</h3>
 
 - [UntitledUI - (UI kit and design system for Figma)](https://www.untitledui.com/)
 - [DopeUI - (Templates for Figma)](https://dopeui.co/)
@@ -440,18 +459,24 @@
 
 <br>
 
-- [Tailwind Templates - (Templates of Tailwind CSS)](https://tailwindtemplates.co/)
-
-<br>
-
-- [Bootstrap Made - (Templates of Bootstrap)](https://bootstrapmade.com/)
-
-<br>
+<h3>General Templates</h3>
 
 - [HTMLrev - (Landing page HTML templates)](https://htmlrev.com/)
 - [HTML5 UP - (Responsive HTML5 and CSS3 Site Templates)](https://html5up.net/)
 - [GrayGrids - (HTML, Bootstrap, Tailwind Templates)](https://graygrids.com/)
 - [UIdeck - (HTML Templates, Bootstrap Themes, Tailwind, and React Templates)](https://uideck.com/templates/)
+
+<br>
+
+<h3>Tailwind CSS Template</h3>
+
+- [Tailwind Templates - (Templates of Tailwind CSS)](https://tailwindtemplates.co/)
+
+<br>
+
+<h3>Bootstrap Template</h3>
+
+- [Bootstrap Made - (Templates of Bootstrap)](https://bootstrapmade.com/)
 
 <br>
 

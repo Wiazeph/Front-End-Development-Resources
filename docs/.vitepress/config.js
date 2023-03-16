@@ -21,6 +21,21 @@ export default defineConfig({
         link: "/introduction",
       },
       {
+        text: "Resources",
+        collapsed: false,
+        items: [
+          { text: "Document Resources", link: "/resources/documents" },
+          { text: "Video Resources", link: "/resources/videos" },
+          { text: "Courses", link: "/resources/courses" },
+          { text: "Certificate Programs", link: "/resources/certificate-programs" },
+          { text: "Training and Code Battles Sites", link: "/resources/training-code-battles-sites" },
+          { text: "Source Research", link: "/resources/source-research" },
+          { text: "Cheat Sheets", link: "/resources/cheat-sheets" },
+          { text: "Roadmaps", link: "/resources/roadmaps" },
+          { text: "Templates", link: "/resources/templates" },
+        ],
+      },
+      {
         text: "Team",
         link: "/team/",
       },
