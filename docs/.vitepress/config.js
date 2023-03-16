@@ -48,6 +48,10 @@ export default defineConfig({
           { text: "Icons", link: "/tools/icons" },
           { text: "Colors", link: "/tools/colors" },
           { text: "Fonts", link: "/tools/fonts" },
+          {
+            text: "Stock Media Resources",
+            link: "/tools/stock-media-resources",
+          },
         ],
       },
     ],
