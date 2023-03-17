@@ -30,6 +30,14 @@ const members = [
       { icon: "twitter", link: "https://twitter.com/vaycem" },
     ],
   },
+  {
+    avatar: "https://avatars.githubusercontent.com/u/108342464?v=4",
+    name: "Eray Özkan",
+    title: "Contributor",
+    links: [
+      { icon: "github", link: "https://github.com/oozkanneray" },
+    ],
+  },
 ];
 </script>
 
