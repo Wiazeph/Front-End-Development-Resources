@@ -6,6 +6,8 @@
 - [W3Schools](https://www.w3schools.com/)
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [web.dev (Google)](https://web.dev/)
+- [GeeksforGeeks - Web Development](https://www.geeksforgeeks.org/web-development/)
+- [SoloLearn](https://www.sololearn.com/)
 
 ## CSS
 
@@ -30,13 +32,14 @@
 - [Learn JavaScript](https://learnjavascript.online/)
 - [JavaScript30](https://javascript30.com/)
 
-## TypeScript
+## React
 
-- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+- [React Legacy](https://legacy.reactjs.org/)
 
 <br>
 
-- [Microsoft TypeScript Handbook](https://microsoft.github.io/TypeScript-New-Handbook/outline/)
+- [React Tutorial](https://react-tutorial.app/)
 
 ## Vue
 
@@ -48,14 +51,13 @@
 - [Vue School](https://vueschool.io/)
 - [LearnVue](https://learnvue.co/)
 
-## React
+## TypeScript
 
-- [React](https://react.dev/)
-- [React Legacy](https://legacy.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 <br>
 
-- [React Tutorial](https://react-tutorial.app/)
+- [Microsoft TypeScript Handbook](https://microsoft.github.io/TypeScript-New-Handbook/outline/)
 
 <br>
 

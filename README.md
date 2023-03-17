@@ -117,6 +117,8 @@
 - [W3Schools](https://www.w3schools.com/)
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [web.dev (Google)](https://web.dev/)
+- [GeeksforGeeks - Web Development](https://www.geeksforgeeks.org/web-development/)
+- [SoloLearn](https://www.sololearn.com/)
 
 <br>
 
@@ -153,13 +155,14 @@
 
 <br>
 
-<h3>TypeScript:</h3>
+<h3>React:</h3>
 
-- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+- [React Legacy](https://legacy.reactjs.org/)
 
 <br>
 
-- [Microsoft TypeScript Handbook](https://microsoft.github.io/TypeScript-New-Handbook/outline/)
+- [React Tutorial](https://react-tutorial.app/)
 
 <br>
 
@@ -175,14 +178,13 @@
 
 <br>
 
-<h3>React:</h3>
+<h3>TypeScript:</h3>
 
-- [React](https://react.dev/)
-- [React Legacy](https://legacy.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 <br>
 
-- [React Tutorial](https://react-tutorial.app/)
+- [Microsoft TypeScript Handbook](https://microsoft.github.io/TypeScript-New-Handbook/outline/)
 
 <br>
 
