@@ -604,7 +604,7 @@
 
 <h1 id="Tools">Tools</h1>
 
-**<a href="#Icons">Icons</a> | <a href="#Colors">Colors</a> | <a href="#Fonts">Fonts</a> | <a href="#Stock-Media">Stock Media Resources</a> | <a href="#CSS-Generators">CSS Generators</a> | <a href="#Components">Ready to use (...)</a> | <a href="#Host">Host</a> | <a href="#API">API</a>**
+**<a href="#Icons">Icons</a> | <a href="#Colors">Colors</a> | <a href="#Fonts">Fonts</a> | <a href="#Stock-Media">Stock Media Resources</a> | <a href="#CSS-Generators">CSS Generators</a> | <a href="#Components">Ready to use (...)</a> | <a href="#Hosts">Hosts</a> | <a href="#API">API</a>**
 
 <br>
 
@@ -823,15 +823,24 @@
 
 <div align="left">
 
-<h2 id="Host" >Host:</h2>
+<h2 id="Hosts" >Hosts:</h2>
 
 - [Firebase (Google)](https://firebase.google.com/)
 - [AWS (Amazon)](https://aws.amazon.com/)
+- [Azure](https://azure.microsoft.com/)
+- [Cloudflare](https://www.cloudflare.com/)
+- [DigitalOcean](https://www.digitalocean.com/)
+- [000webhost](https://www.000webhost.com/)
+
+<br>
+
+- [Supabase](https://supabase.com/)
 
 <br>
 
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
+- [GitHub Pages](https://pages.github.com/)
 
 <br>
 
