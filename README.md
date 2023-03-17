@@ -120,21 +120,69 @@
 
 <br>
 
-<h3>Specific Resources:</h3>
+<h3>CSS:</h3>
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [cssreference.io](https://cssreference.io/)
+
+<br>
+
+<h3>SASS/SCSS:</h3>
+
 - [SASS-SCSS](https://sass-lang.com/guide)
+
+<br>
+
+<h3>Bootstrap:</h3>
+
 - [Bootstrap](https://getbootstrap.com/)
+
+<br>
+
+<h3>Tailwind CSS:</h3>
+
 - [Tailwind CSS](https://tailwindcss.com/)
+
+<br>
+
+<h3>JavaScript:</h3>
+
 - [JavaScript.Info](https://javascript.info/)
+- [Learn JavaScript](https://learnjavascript.online/)
+- [JavaScript30](https://javascript30.com/)
+
+<br>
+
+<h3>TypeScript:</h3>
+
 - [TypeScript](https://www.typescriptlang.org/)
 
 <br>
 
+- [Microsoft TypeScript Handbook](https://microsoft.github.io/TypeScript-New-Handbook/outline/)
+
+<br>
+
+<h3>Vue:</h3>
+
 - [Vue.js](https://vuejs.org/)
+- [Vue Router](https://router.vuejs.org/)
+
+<br>
+
 - [Vue School](https://vueschool.io/)
 - [LearnVue](https://learnvue.co/)
+
+<br>
+
+<h3>React:</h3>
+
+- [React](https://react.dev/)
+- [React Legacy](https://legacy.reactjs.org/)
+
+<br>
+
+- [React Tutorial](https://react-tutorial.app/)
 
 <br>
 
