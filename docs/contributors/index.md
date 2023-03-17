@@ -21,6 +21,15 @@ const members = [
       { icon: "github", link: "https://github.com/osmandlsmn" },
     ],
   },
+  {
+    avatar: "https://avatars.githubusercontent.com/u/65294379?v=4",
+    name: "Cem Tatlı",
+    title: "Contributor",
+    links: [
+      { icon: "github", link: "https://github.com/cemtatli" },
+      { icon: "twitter", link: "https://twitter.com/vaycem" },
+    ],
+  },
 ];
 </script>
 
