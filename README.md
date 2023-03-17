@@ -16,8 +16,6 @@
 
 <h1 id="Links">Helpful / Useful Links</h1>
 
-**<a href="#Algorithm">Challenges / Battle / Q&A / Algorithm</a>**
-
 <br>
 
 <div align="left">
@@ -62,32 +60,6 @@
 
 - [Freelancer Guide](https://freelancer.guide/)
 - [Uzaktan Çalışmak - [TR]](https://uzaktancalismak.com/)
-
-<br>
-
-**<a href="#top">⬆ back to top ⬆</a>**
-
-</div>
-
-<br>
-
-<div align="left">
-
-<h2 id="Algorithm" >Challenges / Battle / Q&A / Algorithm:</h2>
-
-- **Challenges:**
-  - [Frontend Mentor](https://www.frontendmentor.io/challenges)
-  - [codewars](https://www.codewars.com/)
-
-<br>
-
-- **Battle:**
-  - [CSSBattle](https://cssbattle.dev/)
-
-<br>
-
-- **Question / Answer:**
-  - [JavaScript is Weird](https://jsisweird.com/)
 
 <br>
 
@@ -466,6 +438,13 @@
 
 - [HackerRank](https://www.hackerrank.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
+- [Frontend Mentor](https://www.frontendmentor.io/challenges)
+- [CodeWars](https://www.codewars.com/)
+- [CSSBattle](https://cssbattle.dev/)
+
+<br>
+
+- [JavaScript is Weird](https://jsisweird.com/)
 
 <br>
 
