@@ -16,6 +16,11 @@
 - [colorshadowlord/](https://noeldelgado.github.io/shadowlord/)
 - [colorsandfonts.](https://www.colorsandfonts.com/)
 - [colordesigner](https://colordesigner.io/)
+- [uicolors](https://uicolors.app/create)
+- [hhhue](https://fffuel.co/hhhue/)
+- [flatuicolors](https://flatuicolors.com/)
+- [materialuicolors](https://materialuicolors.co/)
+- [colorion](https://colorpalettes.colorion.co/)
 
 <br>
 
