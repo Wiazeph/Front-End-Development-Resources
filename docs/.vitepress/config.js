@@ -92,7 +92,7 @@ export default defineConfig({
           },
           {
             text: "Katkıda Bulunanlar",
-            link: "/contributors/",
+            link: "tr/contributors/",
           },
         ],
         sidebar: [
@@ -121,7 +121,7 @@ export default defineConfig({
             ],
           },
           { text: "Hazır Şablonlar", link: "tr/templates" },
-          { text: "Kullanılıma Hazır Bileşenler", link: "tr/ready-to-use" },
+          { text: "Kullanıma Hazır Bileşenler", link: "tr/ready-to-use" },
           { text: "İkonlar", link: "tr/icons" },
           { text: "Renkler", link: "tr/colors" },
           { text: "Fontlar", link: "tr/fonts" },
