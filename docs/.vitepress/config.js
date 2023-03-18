@@ -144,6 +144,55 @@ export default defineConfig({
             ],
           },
         ],
+        sidebar: [
+          {
+            text: "Başlarken",
+            link: "tr/introduction",
+          },
+          {
+            text: "Kaynaklar",
+            collapsed: false,
+            items: [
+              { text: "Dökümanlar", link: "tr/resources/documents" },
+              { text: "Video Kaynakları", link: "tr/resources/videos" },
+              { text: "Kurslar", link: "tr/resources/courses" },
+              {
+                text: "Sertifika Programları",
+                link: "tr/resources/certificate-programs",
+              },
+              {
+                text: "Pratik yapma ve Kod Yarışma Siteleri",
+                link: "tr/resources/training-code-battles-sites",
+              },
+              { text: "Cheat Sheets", link: "tr/resources/cheat-sheets" },
+              { text: "Yol Haritaları", link: "tr/resources/roadmaps" },
+              { text: "Kaynak Araştırma Siteleri", link: "tr/resources/source-research" },
+            ],
+          },
+          { text: "Hazır Şablonlar", link: "tr/templates" },
+          { text: "Kullanılıma Hazır Bileşenler", link: "tr/ready-to-use" },
+          { text: "İkonlar", link: "tr/icons" },
+          { text: "Renkler", link: "tr/colors" },
+          { text: "Fontlar", link: "tr/fonts" },
+          { text: "Stok Medya Kaynakları", link: "tr/stock-media-resources" },
+          { text: "CSS Oluşturucuları", link: "tr/css-generators" },
+          { text: "Hosts", link: "tr/hosts" },
+          { text: "APIs", link: "tr/api" },
+          {
+            text: "Eklentiler",
+            collapsed: false,
+            items: [
+              {
+                text: "Tarayıcılar",
+                link: "tr/extensions/browser-extensions",
+              },
+              {
+                text: "VSCode",
+                link: "tr/extensions/vscode-extensions",
+              },
+            ],
+          },
+        ],
         editLink: {
           pattern:
             "https://github.com/emr3rden/Front-End-Development-Resources/edit/main/docs/:path",
