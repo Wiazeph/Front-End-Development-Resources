@@ -126,7 +126,7 @@ export default defineConfig({
           { text: "Renkler", link: "tr/colors" },
           { text: "Fontlar", link: "tr/fonts" },
           { text: "Stok Medya Kaynakları", link: "tr/stock-media-resources" },
-          { text: "CSS Oluşturucuları", link: "tr/css-generators" },
+          { text: "CSS Oluşturucular", link: "tr/css-generators" },
           { text: "Hosts", link: "tr/hosts" },
           { text: "APIs", link: "tr/api" },
           {
