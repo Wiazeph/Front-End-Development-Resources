@@ -1,11 +1,5 @@
 # Templates
 
-## Figma Templates
-
-- [UntitledUI - (UI kit and design system for Figma)](https://www.untitledui.com/)
-- [DopeUI - (Templates for Figma)](https://dopeui.co/)
-- [FreeFigmaTemplates - (Templates for Figma)](https://www.freefigmatemplates.com/)
-
 ## General Templates
 
 - [HTMLrev - (Landing page HTML templates)](https://htmlrev.com/)
@@ -13,11 +7,17 @@
 - [GrayGrids - (HTML, Bootstrap, Tailwind Templates)](https://graygrids.com/)
 - [UIdeck - (HTML Templates, Bootstrap Themes, Tailwind, and React Templates)](https://uideck.com/templates/)
 
-## Tailwind CSS Template
+## Figma
+
+- [UntitledUI - (UI kit and design system for Figma)](https://www.untitledui.com/)
+- [DopeUI - (Templates for Figma)](https://dopeui.co/)
+- [FreeFigmaTemplates - (Templates for Figma)](https://www.freefigmatemplates.com/)
+
+## Tailwind CSS
 
 - [Tailwind Templates - (Templates of Tailwind CSS)](https://tailwindtemplates.co/)
 
-## Bootstrap Template
+## Bootstrap
 
 - [Bootstrap Made - (Templates of Bootstrap)](https://bootstrapmade.com/)
 

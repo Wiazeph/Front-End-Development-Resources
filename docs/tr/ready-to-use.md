@@ -1,6 +1,6 @@
 # Kullanıma Hazır Bileşenler
 
-## Buttonlar (+Gradient)
+## Buttons (+Gradient)
 
 - [Marko Denic Buttons Generator](https://markodenic.com/tools/buttons-generator/)
 - [Gradient Buttons](https://gradientbuttons.colorion.co/)
@@ -9,7 +9,7 @@
 
 - [CSS Scan](https://getcssscan.com/css-box-shadow-examples)
 
-## CSS Animasyonlar
+## CSS Animasyonları
 
 - [Animate.css - (CSS Animations Library)](https://animate.style/)
 

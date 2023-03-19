@@ -1,4 +1,4 @@
-# Video Resources
+# Videos
 
 ## HTML
 

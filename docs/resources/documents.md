@@ -1,4 +1,4 @@
-# Document Resources
+# Documents
 
 ## General Resources
 

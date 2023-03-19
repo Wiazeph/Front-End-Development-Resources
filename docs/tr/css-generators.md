@@ -1,36 +1,36 @@
-# CSS Oluşturucular
+# CSS Oluşturucuları
 
-## Glassmorphism 
+## Glassmorphism
 
 - [HYPE4 Academy](https://hype4.academy/tools/glassmorphism-generator)
 - [Marko Denic Glassmorphism Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
 - [Glass UI](https://ui.glass/generator/#)
 - [Glass Morphism](https://glassgenerator.netlify.app/)
 
-## Gradient 
+## Gradient
 
 - [CSS Gradient](https://cssgradient.io/)
 - [Colorffy](https://colorffy.com/gradient-generator)
 - [CSS Gradient Editor](https://www.cssgradienteditor.com/)
 
-## Mesh Gradient 
+## Mesh Gradient
 
 - [Mesh](https://meshgradient.com/)
 - [Mesher](https://csshero.org/mesher/)
 - [Colorffy](https://colorffy.com/mesh-gradient-generator)
 
-## Background Wave SVG 
+## Background Wave SVG
 
 - [Shape Dividers](https://www.shapedivider.app/)
 - [Haikei](https://app.haikei.app/)
 - [Get Waves](https://getwaves.io/)
 
-## Border Radius 
+## Border Radius
 
 - [Blobmaker](https://www.blobmaker.app/)
 - [9elements](https://9elements.github.io/fancy-border-radius/)
 
-## Box-Shadow (+Gradient) 
+## Box-Shadow (+Gradient)
 
 - [shadows.brumm.af](https://shadows.brumm.af/)
 - [CSS BUD](https://cssbud.com/css-generator/css-glow-generator/)
@@ -39,48 +39,48 @@
 
 - [Alvaro Trigo Shadow Gradient Generator](https://alvarotrigo.com/shadow-gradients/)
 
-## Grid 
+## Grid
 
 - [layoutit!](https://grid.layoutit.com/)
 - [Sarah Edo Grid Generator](https://cssgrid-generator.netlify.app/)
 
-## Flexbox 
+## Flexbox
 
 - [Loading.io](https://loading.io/flexbox/)
 
-## Neumorphism 
+## Neumorphism
 
 - [Neumorphism.io](https://neumorphism.io/)
 
-## Text Gradient 
+## Text Gradient
 
 - [Colorffy](https://colorffy.com/text-gradient-generator)
 
-## Gradient Text-Shadow 
+## Gradient Text-Shadow
 
 - [CSS TextShadow Editor](https://www.csstextshadoweditor.com/)
 
-## Tailwind CSS Gradient 
+## Tailwind CSS Gradient
 
 - [Tailwind Components](https://tailwindcomponents.com/gradient-generator/)
 
-## Accordion Slider 
+## Accordion Slider
 
 - [Accordion Slider Generator](https://accordionslider.com/)
 
-## CSS Stripes 
+## CSS Stripes
 
 - [CSS Stripes Generator](https://stripesgenerator.com/)
 
-## Keyframes 
+## Keyframes
 
 - [Keyframes.app](https://keyframes.app/)
 
-## Loader Animations 
+## Loader/Loading
 
 - [Loading.io](https://loading.io/)
 
-## CSS/SCSS Color Variables 
+## CSS/SCSS Color Variables
 
 - [Colorffy](https://colorffy.com/css-generator)
 

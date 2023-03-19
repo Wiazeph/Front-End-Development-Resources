@@ -1,4 +1,4 @@
-# Pratik yapma ve Kod Yarışma Siteleri
+# Pratik Yapma ve Kod Yarıştırma Siteleri
 
 <br>
 

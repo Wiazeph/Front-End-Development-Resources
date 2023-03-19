@@ -31,8 +31,8 @@ export default defineConfig({
             text: "Resources",
             collapsed: false,
             items: [
-              { text: "Document Resources", link: "/resources/documents" },
-              { text: "Video Resources", link: "/resources/videos" },
+              { text: "Documents", link: "/resources/documents" },
+              { text: "Videos", link: "/resources/videos" },
               { text: "Courses", link: "/resources/courses" },
               {
                 text: "Certificate Programs",
@@ -44,7 +44,10 @@ export default defineConfig({
               },
               { text: "Cheat Sheets", link: "/resources/cheat-sheets" },
               { text: "Roadmaps", link: "/resources/roadmaps" },
-              { text: "Source Research", link: "/resources/source-research" },
+              {
+                text: "Resource Search Sites",
+                link: "/resources/resource-search",
+              },
             ],
           },
           { text: "Templates", link: "/templates" },
@@ -105,72 +108,26 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: "Dökümanlar", link: "tr/resources/documents" },
-              { text: "Video Kaynakları", link: "tr/resources/videos" },
+              { text: "Videolar", link: "tr/resources/videos" },
               { text: "Kurslar", link: "tr/resources/courses" },
               {
                 text: "Sertifika Programları",
                 link: "tr/resources/certificate-programs",
               },
               {
-                text: "Pratik yapma ve Kod Yarışma Siteleri",
+                text: "Pratik Yapma ve Kod Yarıştırma Siteleri",
                 link: "tr/resources/training-code-battles-sites",
               },
               { text: "Cheat Sheets", link: "tr/resources/cheat-sheets" },
               { text: "Yol Haritaları", link: "tr/resources/roadmaps" },
-              { text: "Kaynak Araştırma Siteleri", link: "tr/resources/source-research" },
+              {
+                text: "Kaynak Arama Siteleri",
+                link: "tr/resources/resource-search",
+              },
             ],
           },
           { text: "Hazır Şablonlar", link: "tr/templates" },
           { text: "Kullanıma Hazır Bileşenler", link: "tr/ready-to-use" },
-          { text: "İkonlar", link: "tr/icons" },
-          { text: "Renkler", link: "tr/colors" },
-          { text: "Fontlar", link: "tr/fonts" },
-          { text: "Stok Medya Kaynakları", link: "tr/stock-media-resources" },
-          { text: "CSS Oluşturucular", link: "tr/css-generators" },
-          { text: "Hosts", link: "tr/hosts" },
-          { text: "APIs", link: "tr/api" },
-          {
-            text: "Eklentiler",
-            collapsed: false,
-            items: [
-              {
-                text: "Tarayıcılar",
-                link: "tr/extensions/browser-extensions",
-              },
-              {
-                text: "VSCode",
-                link: "tr/extensions/vscode-extensions",
-              },
-            ],
-          },
-        ],
-        sidebar: [
-          {
-            text: "Başlarken",
-            link: "tr/introduction",
-          },
-          {
-            text: "Kaynaklar",
-            collapsed: false,
-            items: [
-              { text: "Dökümanlar", link: "tr/resources/documents" },
-              { text: "Video Kaynakları", link: "tr/resources/videos" },
-              { text: "Kurslar", link: "tr/resources/courses" },
-              {
-                text: "Sertifika Programları",
-                link: "tr/resources/certificate-programs",
-              },
-              {
-                text: "Pratik yapma ve Kod Yarışma Siteleri",
-                link: "tr/resources/training-code-battles-sites",
-              },
-              { text: "Cheat Sheets", link: "tr/resources/cheat-sheets" },
-              { text: "Yol Haritaları", link: "tr/resources/roadmaps" },
-              { text: "Kaynak Araştırma Siteleri", link: "tr/resources/source-research" },
-            ],
-          },
-          { text: "Hazır Şablonlar", link: "tr/templates" },
-          { text: "Kullanılıma Hazır Bileşenler", link: "tr/ready-to-use" },
           { text: "İkonlar", link: "tr/icons" },
           { text: "Renkler", link: "tr/colors" },
           { text: "Fontlar", link: "tr/fonts" },
@@ -198,7 +155,6 @@ export default defineConfig({
             "https://github.com/emr3rden/Front-End-Development-Resources/edit/main/docs/:path",
           text: "Bu sayfayı GitHub'da düzenleyin",
         },
-
       },
     },
   },
