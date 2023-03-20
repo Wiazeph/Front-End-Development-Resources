@@ -27,8 +27,10 @@
 - [Simple Icons](https://simpleicons.org/)
 - [IcoMoon](https://icomoon.io/#icons)
 - [Iconoir](https://iconoir.com/)
+- [Iconic](https://iconic.app/)
+- [sargam-icons](https://sargamicons.com/)
 - [Phosphor](https://phosphoricons.com/)
-- [Glyphs Icons](https://glyphs.fyi/dir?i=building3)
+- [Glyphs Icons](https://glyphs.fyi/dir)
 - [IconPark](https://iconpark.oceanengine.com/official)
 - [Bunch Icons](https://www.bunchof.design/)
 
