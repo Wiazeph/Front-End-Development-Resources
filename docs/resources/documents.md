@@ -30,7 +30,6 @@
 
 - [JavaScript.Info](https://javascript.info/)
 - [Learn JavaScript](https://learnjavascript.online/)
-- [JavaScript30](https://javascript30.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ## React
