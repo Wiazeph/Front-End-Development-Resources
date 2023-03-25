@@ -99,6 +99,10 @@
 
 <br>
 
+- [[EN] - Vue 3 Authentication With Supabase - (Login, Sign Up, Logout, Protected Routes) - (VueReference)](https://www.youtube.com/watch?v=TXaL_S0TDSg)
+
+<br>
+
 - [[TR] - Vue3 Bootcamp - (Kablosuz Kedi)](https://www.youtube.com/playlist?list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp)
 - [[TR] - Vue eklentisi nasıl yazılır/paketlenir/npm'e gönderilir - (Adem İlter)](https://www.youtube.com/watch?v=fhu7pHj_Y3c&t=1s)
 
