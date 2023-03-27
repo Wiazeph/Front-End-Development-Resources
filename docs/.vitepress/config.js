@@ -6,6 +6,8 @@ export default defineConfig({
   description:
     "An amazing repository where you can discover a plethora of resources related to Front-End Development, which will make your life easier.",
 
+  lastUpdated: true,
+
   locales: {
     root: {
       label: "English",
