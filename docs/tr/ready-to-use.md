@@ -11,10 +11,6 @@
 
 ## CSS Animasyonları
 
-- [Animate.css - (CSS Animations Library)](https://animate.style/)
-
-<br>
-
 - [Frank Eno CSS Animations](https://xsgames.co/animatiss/?ref=producthunt)
 
 ## Gradient

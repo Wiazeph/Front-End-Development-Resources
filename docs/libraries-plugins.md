@@ -1,5 +1,9 @@
 # Libraries and Plugins
 
+## CSS
+
+- [Animate.css - (CSS Animations Library)](https://animate.style/)
+
 ## JavaScript
 
 - [Rough Notation - (Annotation Library)](https://roughnotation.com/)
