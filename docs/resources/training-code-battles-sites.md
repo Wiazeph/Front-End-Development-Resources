@@ -12,7 +12,9 @@
 - [JavaScript30](https://javascript30.com/)
 - [CodeWars](https://www.codewars.com/)
 - [Codewell](https://www.codewell.cc/)
+- [Codier](https://codier.io/)
 - [CSSBattle](https://cssbattle.dev/)
+- [100 Days of Code](https://100dayscss.com/)
 
 <br>
 
