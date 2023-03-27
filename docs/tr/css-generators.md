@@ -19,10 +19,11 @@
 - [Mesher](https://csshero.org/mesher/)
 - [Colorffy](https://colorffy.com/mesh-gradient-generator)
 
-## Background Wave SVG
+## Background SVG Oluşturucu
 
-- [Shape Dividers](https://www.shapedivider.app/)
+- [Heazy.Studio](https://app.heazy.studio/)
 - [Haikei](https://app.haikei.app/)
+- [Shape Dividers](https://www.shapedivider.app/)
 - [Get Waves](https://getwaves.io/)
 
 ## Border Radius
