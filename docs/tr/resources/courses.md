@@ -6,10 +6,10 @@
 
 <br>
 
-- [Frontend Masters](https://frontendmasters.com/)
-- [Udemy](https://www.udemy.com/)
-- [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/)
-- [Scrimba](https://scrimba.com/)
+- [[EN] - Frontend Masters](https://frontendmasters.com/)
+- [[EN] - Udemy](https://www.udemy.com/)
+- [[EN] - Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/)
+- [[EN] - Scrimba](https://scrimba.com/)
 
 <br>
 

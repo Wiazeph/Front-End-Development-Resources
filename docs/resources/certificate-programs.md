@@ -6,10 +6,10 @@
 
 <br>
 
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- [HackerRank](https://www.hackerrank.com/)
-- [Udemy](https://www.udemy.com/)
-- [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/)
+- [[EN] - freeCodeCamp](https://www.freecodecamp.org/)
+- [[EN] - HackerRank](https://www.hackerrank.com/)
+- [[EN] - Udemy](https://www.udemy.com/)
+- [[EN] - Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/)
 
 <br>
 
