@@ -17,6 +17,10 @@
 
 - [ATROPOS - (Parallax Hover Effects Library)](https://atroposjs.com/)
 
+## React
+
+- [dnd-kit - (Drag and Drop Library)](https://dndkit.com/)
+
 ## Vue
 
 - [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
