@@ -31,6 +31,10 @@
 
 <br>
 
+- [Pinia](https://pinia.vuejs.org/)
+
+<br>
+
 #### Others:
 
 - [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
