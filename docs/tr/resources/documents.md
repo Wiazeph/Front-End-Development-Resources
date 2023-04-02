@@ -30,7 +30,7 @@
 
 - [JavaScript.Info](https://javascript.info/)
 - [Learn JavaScript](https://learnjavascript.online/)
-- [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [FreeCodeCamp - (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ## React
 
@@ -44,12 +44,16 @@
 ## Vue
 
 - [Vue.js](https://vuejs.org/)
-- [Vue Router](https://router.vuejs.org/)
 
 <br>
 
-- [Vue School](https://vueschool.io/)
 - [LearnVue](https://learnvue.co/)
+
+<br>
+
+#### Video Kurslar:
+
+- [Vue School](https://vueschool.io/)
 
 ## TypeScript
 

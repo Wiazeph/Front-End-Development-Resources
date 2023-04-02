@@ -23,6 +23,16 @@
 
 ## Vue
 
+<br>
+
+#### Resmi Kütüphaneler:
+
+- [Vue Router](https://router.vuejs.org/)
+
+<br>
+
+#### Diğer:
+
 - [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
 
 <br>

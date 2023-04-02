@@ -23,6 +23,16 @@
 
 ## Vue
 
+<br>
+
+#### Official Libraries:
+
+- [Vue Router](https://router.vuejs.org/)
+
+<br>
+
+#### Others:
+
 - [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
 
 <br>
