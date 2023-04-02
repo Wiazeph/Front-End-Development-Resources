@@ -44,6 +44,9 @@
 ## Vue
 
 - [Vue.js](https://vuejs.org/)
+- [Vue.js API](https://vuejs.org/api/)
+- [Vue.js Migration Guide - (From v2 to v3)](https://v3-migration.vuejs.org/)
+- [Vue.js v2](https://v2.vuejs.org/)
 
 <br>
 
