@@ -53,6 +53,7 @@
 
 #### Video Courses:
 
+- [Vue Mastery](https://www.vuemastery.com/courses/)
 - [Vue School](https://vueschool.io/)
 
 ## TypeScript
