@@ -171,9 +171,9 @@ export default defineConfig({
       },
     ],
     algolia: {
-      appId: "XQ4XAGI2WE",
-      apiKey: "be334c3d14926be56e4500a3427cc0f9",
-      indexName: "front-end-development-resources-roan",
+      appId: "NO1120J46I",
+      apiKey: "61465e950c739127c35c71ec7abba88b",
+      indexName: "frontresources",
     },
   },
 });
