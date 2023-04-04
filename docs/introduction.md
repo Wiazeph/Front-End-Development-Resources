@@ -19,7 +19,7 @@
 <br>
 <br>
 
-#### If you want to develop and want to be seen in the ["Contributors"](https://front-end-development-resources-roan.vercel.app/contributors/) section, you can follow the instructions below.
+#### If you want to develop and want to be seen in the ["Contributors"](https://frontresources.dev/contributors/) section, you can follow the instructions below.
 
 <br>
 <br>

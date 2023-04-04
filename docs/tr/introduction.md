@@ -19,7 +19,7 @@
 <br>
 <br>
 
-#### Ayrıca geliştirmek istiyorsanız ve ["Katkıda Bulunanlar"](https://front-end-development-resources-roan.vercel.app/tr/contributors/) kısmında görünmek istiyorsanız aşağıdaki yönergeleri takip edebilirsiniz.
+#### Ayrıca geliştirmek istiyorsanız ve ["Katkıda Bulunanlar"](https://frontresources.dev/tr/contributors/) kısmında görünmek istiyorsanız aşağıdaki yönergeleri takip edebilirsiniz.
 
 <br>
 <br>
