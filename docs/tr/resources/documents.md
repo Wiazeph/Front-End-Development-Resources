@@ -52,6 +52,10 @@
 
 <br>
 
+- [VueFire](https://vuefire.vuejs.org/)
+
+<br>
+
 - [LearnVue](https://learnvue.co/)
 
 <br>
