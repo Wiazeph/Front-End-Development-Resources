@@ -41,6 +41,10 @@
 
 <br>
 
+- [Vuetify - (UI Component Library)](https://vuetifyjs.com/en/)
+
+<br>
+
 - [VeeValidate - (Form Library)](https://vee-validate.logaretm.com/v4/)
 
 <br>
