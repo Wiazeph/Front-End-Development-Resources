@@ -176,4 +176,24 @@ export default defineConfig({
       indexName: "frontresources",
     },
   },
+
+  head: [
+    [
+      "script",
+      {
+        async: true,
+        src: "https://www.googletagmanager.com/gtag/js?id=G-F1Y2DN3M4G",
+      },
+    ],
+    [
+      "script",
+      {},
+      `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-F1Y2DN3M4G');
+    `,
+    ],
+  ],
 });
