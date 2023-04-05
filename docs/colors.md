@@ -24,6 +24,7 @@
 
 <br>
 
+- [WebGradients](https://webgradients.com/)
 - [uiGradients](https://uigradients.com/)
 - [Shadowlord - Tints and Shades Colors](https://noeldelgado.github.io/shadowlord/)
 
