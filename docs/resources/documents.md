@@ -7,7 +7,9 @@
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [web.dev (Google)](https://web.dev/)
 - [GeeksforGeeks - Web Development](https://www.geeksforgeeks.org/web-development/)
+- [freeCodeCamp](https://www.freecodecamp.org/learn)
 - [SoloLearn](https://www.sololearn.com/)
+- [Codecademy](https://www.codecademy.com/learn)
 
 ## CSS
 
