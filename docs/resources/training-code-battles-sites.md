@@ -11,6 +11,7 @@
 - [Frontend Mentor](https://www.frontendmentor.io/challenges)
 - [Exercism](https://exercism.org/)
 - [JavaScript30](https://javascript30.com/)
+- [JSChallenger](https://jschallenger.com/)
 - [CodeWars](https://www.codewars.com/)
 - [Codewell](https://www.codewell.cc/)
 - [Codier](https://codier.io/)
