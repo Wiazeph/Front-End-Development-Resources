@@ -24,7 +24,9 @@
 
 - [GreenSock / GSAP](https://greensock.com/)
 - [Anime.js](https://animejs.com/)
-- [Popmotion - (Animation Library)](https://popmotion.io/)
+- [Popmotion](https://popmotion.io/)
+- [TheatreJS](https://theatrejs.com/)
+- [Mo.js](https://mojs.github.io/)
 
 <br>
 
