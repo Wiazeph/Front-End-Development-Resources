@@ -12,6 +12,7 @@
 - [Kuzzle](https://kuzzle.io/)
 - [Here Developer](https://developer.here.com/)
 - [Asana](https://developers.asana.com/docs)
+- [OpenWeatherMap](https://openweathermap.org/api)
 
 <br>
 
