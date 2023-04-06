@@ -6,6 +6,20 @@
 
 ## JavaScript
 
+<br>
+
+#### Animation Libraries:
+
+- [GreenSock / GSAP](https://greensock.com/)
+- [Anime.js](https://animejs.com/)
+- [Popmotion - (Animation Library)](https://popmotion.io/)
+
+<br>
+
+#### Others:
+
+- [Three.js - (3D Library)](https://threejs.org/)
+- [ScrollReveal - (Scroll Animation Library)](https://scrollrevealjs.org/)
 - [Rough Notation - (Annotation Library)](https://roughnotation.com/)
 
 ## In JavaScript and Frameworks/Libraries
