@@ -4,6 +4,18 @@
 
 - [Animate.css - (CSS Animations Library)](https://animate.style/)
 
+## Tailwind CSS
+
+- [Tailwind UI - (Official Components of Tailwind CSS) - (for Native, React and Vue) - (By the makers of Tailwind CSS)](https://tailwindui.com/)
+
+<br>
+
+- [Flowbite - (Components) - (for React, Vue, ...)](https://flowbite.com/)
+- [Headless UI - (Components) - (for React and Vue) - (By the Tailwind Labs)](https://headlessui.com/)
+- [Preline UI - (Components) - (for Native, React and Vue)](https://preline.co/index.html)
+- [DaisyUI - (Components) - (for Native, React, Vue, ...)](https://daisyui.com/)
+- [Material Tailwind - (Components Library for Tailwind CSS and Material Design) - (for Native and React)](https://www.material-tailwind.com/)
+
 ## JavaScript
 
 <br>

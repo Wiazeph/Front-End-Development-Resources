@@ -19,17 +19,7 @@
 
 ## Tailwind CSS Components
 
-- [Tailwind UI - (Official Components of Tailwind CSS - By the makers of Tailwind CSS)](https://tailwindui.com/)
-
-<br>
-
-- [Flowbite - (Components of Tailwind CSS)](https://flowbite.com/)
-- [Headless UI - (Components of Tailwind CSS for Vue/React)](https://headlessui.com/)
-- [daisyUI - (Components of Tailwind CSS for Vue, React, ...)](https://daisyui.com/)
-- [Material Tailwind - (Components Library for Tailwind CSS and Material Design)](https://www.material-tailwind.com/)
-
-<br>
-
+- [TailGrids - (Components and Blocks)](https://tailgrids.com/)
 - [Tailblocks - (Ready-to-use Tailwind CSS Blocks)](https://tailblocks.cc/)
 
 ## Uncategorized
