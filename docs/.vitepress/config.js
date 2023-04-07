@@ -66,12 +66,18 @@ export default defineConfig({
             text: "Assets",
             collapsed: false,
             items: [
-              { text: "Libraries and Plugins", link: "/assets/libraries-plugins" },
+              {
+                text: "Libraries and Plugins",
+                link: "/assets/libraries-plugins",
+              },
               { text: "Templates", link: "/assets/templates" },
               { text: "Icons", link: "/assets/icons" },
               { text: "Colors", link: "/assets/colors" },
               { text: "Fonts", link: "/assets/fonts" },
-              { text: "Stock Media Resources", link: "/assets/stock-media-resources" },
+              {
+                text: "Stock Media Resources",
+                link: "/assets/stock-media-resources",
+              },
             ],
           },
           {
@@ -91,6 +97,12 @@ export default defineConfig({
           {
             text: "Useful Sections",
             collapsed: false,
+            items: [
+              {
+                text: "CV / Resume Builders",
+                link: "/useful-sections/cv-resume-builders",
+              },
+            ],
           },
         ],
         editLink: {
@@ -150,7 +162,10 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: "CSS Oluşturucuları", link: "tr/tools/css-generators" },
-              { text: "Kullanıma Hazır Bileşenler", link: "tr/tools/ready-to-use" },
+              {
+                text: "Kullanıma Hazır Bileşenler",
+                link: "tr/tools/ready-to-use",
+              },
               { text: "Hosts", link: "tr/tools/hosts" },
               { text: "APIs", link: "tr/tools/api" },
             ],
@@ -159,12 +174,18 @@ export default defineConfig({
             text: "Assets/Varlıklar",
             collapsed: false,
             items: [
-              { text: "Kütüphaneler ve Eklentiler", link: "tr/assets/libraries-plugins" },
+              {
+                text: "Kütüphaneler ve Eklentiler",
+                link: "tr/assets/libraries-plugins",
+              },
               { text: "Hazır Şablonlar", link: "tr/assets/templates" },
               { text: "İkonlar", link: "tr/assets/icons" },
               { text: "Renkler", link: "tr/assets/colors" },
               { text: "Fontlar", link: "tr/assets/fonts" },
-              { text: "Stok Medya Kaynakları", link: "tr/assets/stock-media-resources" },
+              {
+                text: "Stok Medya Kaynakları",
+                link: "tr/assets/stock-media-resources",
+              },
             ],
           },
           {
@@ -184,6 +205,12 @@ export default defineConfig({
           {
             text: "Faydalı / Yararlı Bölümler",
             collapsed: false,
+            items: [
+              {
+                text: "Özgeçmiş Oluşturucular",
+                link: "tr/useful-sections/cv-resume-builders",
+              },
+            ],
           },
         ],
         editLink: {
