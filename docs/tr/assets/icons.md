@@ -36,4 +36,8 @@
 
 <br>
 
+- [Github Profile README Skills Icons](https://skillicons.dev/)
+
+<br>
+
 ---
