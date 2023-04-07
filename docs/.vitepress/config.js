@@ -106,6 +106,10 @@ export default defineConfig({
                 text: "Code Snippets Image Generators",
                 link: "/useful-sections/code-snippets",
               },
+              {
+                text: "GitHub ... Generators",
+                link: "/useful-sections/github-generators",
+              },
             ],
           },
         ],
@@ -217,6 +221,10 @@ export default defineConfig({
               {
                 text: "Kod Parçası Görüntüsü Oluşturucular",
                 link: "tr/useful-sections/code-snippets",
+              },
+              {
+                text: "GitHub ... Oluşturucular",
+                link: "tr/useful-sections/github-generators",
               },
             ],
           },
