@@ -88,6 +88,10 @@ export default defineConfig({
               },
             ],
           },
+          {
+            text: "Useful Sections",
+            collapsed: false,
+          },
         ],
         editLink: {
           pattern:
@@ -176,6 +180,10 @@ export default defineConfig({
                 link: "tr/extensions/vscode-extensions",
               },
             ],
+          },
+          {
+            text: "Faydalı / Yararlı Bölümler",
+            collapsed: false,
           },
         ],
         editLink: {
