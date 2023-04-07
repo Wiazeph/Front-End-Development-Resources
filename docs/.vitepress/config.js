@@ -52,6 +52,15 @@ export default defineConfig({
               },
             ],
           },
+          {
+            text: "Tools",
+            collapsed: false,
+            items: [
+              { text: "CSS Generators", link: "/tools/css-generators" },
+              { text: "Hosts", link: "/tools/hosts" },
+              { text: "APIs", link: "/tools/api" },
+            ],
+          },
           { text: "Libraries and Plugins", link: "/libraries-plugins" },
           { text: "Ready to Use", link: "/ready-to-use" },
           { text: "Templates", link: "/templates" },
@@ -59,9 +68,6 @@ export default defineConfig({
           { text: "Colors", link: "/colors" },
           { text: "Fonts", link: "/fonts" },
           { text: "Stock Media Resources", link: "/stock-media-resources" },
-          { text: "CSS Generators", link: "/css-generators" },
-          { text: "Hosts", link: "/hosts" },
-          { text: "APIs", link: "/api" },
           {
             text: "Extensions",
             collapsed: false,
@@ -129,6 +135,15 @@ export default defineConfig({
               },
             ],
           },
+          {
+            text: "Araçlar",
+            collapsed: false,
+            items: [
+              { text: "CSS Oluşturucuları", link: "tr/tools/css-generators" },
+              { text: "Hosts", link: "tr/tools/hosts" },
+              { text: "APIs", link: "tr/tools/api" },
+            ],
+          },
           { text: "Kütüphaneler ve Eklentiler", link: "tr/libraries-plugins" },
           { text: "Kullanıma Hazır Bileşenler", link: "tr/ready-to-use" },
           { text: "Hazır Şablonlar", link: "tr/templates" },
@@ -136,9 +151,6 @@ export default defineConfig({
           { text: "Renkler", link: "tr/colors" },
           { text: "Fontlar", link: "tr/fonts" },
           { text: "Stok Medya Kaynakları", link: "tr/stock-media-resources" },
-          { text: "CSS Oluşturucuları", link: "tr/css-generators" },
-          { text: "Hosts", link: "tr/hosts" },
-          { text: "APIs", link: "tr/api" },
           {
             text: "Eklentiler",
             collapsed: false,
