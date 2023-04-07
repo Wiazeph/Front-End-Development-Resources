@@ -102,6 +102,10 @@ export default defineConfig({
                 text: "CV / Resume Builders",
                 link: "/useful-sections/cv-resume-builders",
               },
+              {
+                text: "Code Snippets Image Generators",
+                link: "/useful-sections/code-snippets",
+              },
             ],
           },
         ],
@@ -209,6 +213,10 @@ export default defineConfig({
               {
                 text: "Özgeçmiş Oluşturucular",
                 link: "tr/useful-sections/cv-resume-builders",
+              },
+              {
+                text: "Kod Parçası Görüntüsü Oluşturucular",
+                link: "tr/useful-sections/code-snippets",
               },
             ],
           },
