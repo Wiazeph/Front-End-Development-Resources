@@ -13,6 +13,10 @@
 - [Free for Developers](https://free-for.dev/)
 - [Dev Resources](https://devresourc.es/)
 - [Public APIs](https://publicapis.dev/)
+
+<br>
+
+- [Source Pocket](https://sourcepocket.netlify.app/)
 - [Frontend Resources](https://fe-resources.vercel.app/)
 
 <br>
