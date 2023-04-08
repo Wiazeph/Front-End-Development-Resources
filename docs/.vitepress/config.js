@@ -99,6 +99,10 @@ export default defineConfig({
             collapsed: false,
             items: [
               {
+                text: "AI Tools",
+                link: "/useful-sections/ai-tools",
+              },
+              {
                 text: "CV / Resume Builders",
                 link: "/useful-sections/cv-resume-builders",
               },
@@ -214,6 +218,10 @@ export default defineConfig({
             text: "Faydalı / Yararlı Bölümler",
             collapsed: false,
             items: [
+              {
+                text: "Yapay Zeka Araçları",
+                link: "tr/useful-sections/ai-tools",
+              },
               {
                 text: "Özgeçmiş Oluşturucular",
                 link: "tr/useful-sections/cv-resume-builders",
