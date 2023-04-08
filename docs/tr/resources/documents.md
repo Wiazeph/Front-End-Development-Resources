@@ -9,7 +9,7 @@
 - [GeeksforGeeks - Web Development](https://www.geeksforgeeks.org/web-development/)
 - [freeCodeCamp](https://www.freecodecamp.org/learn)
 - [SoloLearn](https://www.sololearn.com/)
-- [Codecademy](https://www.codecademy.com/learn)
+- [Codecademy](https://www.codecademy.com/resources/docs)
 
 ## CSS
 

@@ -10,6 +10,8 @@
 - [[EN] - Udemy](https://www.udemy.com/)
 - [[EN] - Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/)
 - [[EN] - Scrimba](https://scrimba.com/)
+- [[EN] - Codecademy](https://www.codecademy.com/catalog)
+- [[EN] - Udacity](https://www.classcentral.com/provider/udacity?free=true)
 
 <br>
 
