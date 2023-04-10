@@ -49,6 +49,17 @@ const members = [
       { icon: "instagram", link: "https://www.instagram.com/scolfieid/" },
     ],
   },
+  {
+    avatar: "https://avatars.githubusercontent.com/u/92332508?v=4",
+    name: "Altan Kurt",
+    title: "Contributor",
+    links: [
+      { icon: "github", link: "https://github.com/altankurt" },
+      { icon: "linkedin", link: "https://www.linkedin.com/in/altankurt/" },
+      { icon: "twitter", link: "https://twitter.com/aaltankurt" },
+      { icon: "instagram", link: "https://www.instagram.com/altankurt/" },
+    ],
+  },
 ];
 </script>
 
