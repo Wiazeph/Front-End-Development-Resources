@@ -63,6 +63,8 @@ Aşağıdaki başlıklarda açılacak olan "Pull Request" ve "Issue" larda konun
 
 - İçerisine kaynak veya kaynakları diğer kaynakların şablonları gibi olacak şekilde listede en alta sıraya koyarak ekleyin.
 
+- Ardından, eklemek isterseniz sosyal medya hesaplarınız da dahil olmak üzere "contributors/index.md" bölümlerindeki şablona uyarak kendinizi listenin en altına ekleyin.
+
 - "main" branch'ine "Pull Request" açın.
 
 - "Pull Request" açıldıktan sonra "Pull Request" in içerisindeki "Files Changed" kısmında değişikliklerinizi görebilirsiniz. Eğer değişiklikleriniz doğru ise "Pull Request" in altındaki "Create Pull Request" butonuna tıklayarak gönderebilirsiniz.

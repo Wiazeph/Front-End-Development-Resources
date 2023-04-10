@@ -63,6 +63,8 @@ First of all, each resource must be added separately to the relevant file in eac
 
 - Add the resource or resources to the list by placing them at the bottom of the list in the same way as the other resources.
 
+- And then add yourself to the bottom of the list by following the template in the "contributors/index.md" sections, including your social media accounts if you want to add them.
+
 - Open a "Pull Request" to the "main" branch.
 
 - After the "Pull Request" is opened, you can see your changes in the "Files Changed" section of the "Pull Request". If your changes are correct, you can send them by clicking the "Create Pull Request" button under "Pull Request".
