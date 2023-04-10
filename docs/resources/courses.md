@@ -12,6 +12,7 @@
 - [[EN] - Scrimba](https://scrimba.com/)
 - [[EN] - Codecademy](https://www.codecademy.com/catalog)
 - [[EN] - Udacity](https://www.classcentral.com/provider/udacity?free=true)
+- [[EN] - The Odin Project](https://www.theodinproject.com/)
 
 <br>
 
