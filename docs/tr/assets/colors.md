@@ -24,6 +24,10 @@
 
 <br>
 
+- [Hypercolor - (Gradients for Tailwind CSS)](https://hypercolor.dev/)
+
+<br>
+
 - [WebGradients](https://webgradients.com/)
 - [uiGradients](https://uigradients.com/)
 - [Shadowlord - Tints and Shades Colors](https://noeldelgado.github.io/shadowlord/)
