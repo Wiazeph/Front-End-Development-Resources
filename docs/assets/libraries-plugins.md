@@ -35,6 +35,7 @@
 - [Three.js - (3D Library)](https://threejs.org/)
 - [ScrollReveal - (Scroll Animation Library)](https://scrollrevealjs.org/)
 - [Rough Notation - (Annotation Library)](https://roughnotation.com/)
+- [Proton - (Particle Animations)](https://drawcall.github.io/Proton/)
 
 ## In JavaScript and Frameworks/Libraries
 

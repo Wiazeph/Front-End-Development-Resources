@@ -20,7 +20,7 @@
 
 <br>
 
-#### Animation Libraries:
+#### Animasyon Kütüphaneleri:
 
 - [GreenSock / GSAP](https://greensock.com/)
 - [Anime.js](https://animejs.com/)
@@ -30,11 +30,12 @@
 
 <br>
 
-#### Others:
+#### Diğer:
 
 - [Three.js - (3D Library)](https://threejs.org/)
 - [ScrollReveal - (Scroll Animation Library)](https://scrollrevealjs.org/)
 - [Rough Notation - (Annotation Library)](https://roughnotation.com/)
+- [Proton - (Particle Animations)](https://drawcall.github.io/Proton/)
 
 ## JavaScript ve Frameworks/Libraries 'lerde de kullanılabilir
 
