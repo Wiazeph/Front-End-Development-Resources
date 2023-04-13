@@ -6,14 +6,22 @@
 
 ## Tailwind CSS
 
-- [Tailwind UI - (Official Components of Tailwind CSS) - (for Native, React and Vue) - (By the makers of Tailwind CSS)](https://tailwindui.com/)
+<br>
+
+#### By The Makers of Tailwind CSS:
+
+- [Tailwind UI - (Official Components of Tailwind CSS) - (for Native, React and Vue)](https://tailwindui.com/)
+- [Headless UI - (Components) - (for Native, React and Vue)](https://headlessui.com/)
+- [Heroicons - (Icons) - (for Native, React and Vue)](https://heroicons.com/)
 
 <br>
 
+#### Others / By The Community:
+
 - [Flowbite - (Components) - (for React, Vue, ...)](https://flowbite.com/)
-- [Headless UI - (Components) - (for React and Vue) - (By the Tailwind Labs)](https://headlessui.com/)
 - [Preline UI - (Components) - (for Native, React and Vue)](https://preline.co/index.html)
-- [DaisyUI - (Components) - (for Native, React, Vue, ...)](https://daisyui.com/)
+- [DaisyUI - (Components) - (for Native)](https://daisyui.com/)
+- [Kutty - (Components) - (for Native)](https://kutty.netlify.app/docs/)
 
 <br>
 
