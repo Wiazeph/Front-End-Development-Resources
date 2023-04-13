@@ -19,8 +19,12 @@
 
 ## Tailwind CSS Bileşenleri
 
-- [TailGrids - (Components and Blocks)](https://tailgrids.com/)
-- [Tailblocks - (Ready-to-use Tailwind CSS Blocks)](https://tailblocks.cc/)
+- [Tailblocks - (Components/Blocks)](https://tailblocks.cc/)
+- [Tailwind Widgets](https://tailwindwidgets.com/)
+- [Meraki UI](https://merakiui.com/)
+- [Mamba UI](https://mambaui.com/)
+- [Kutty](https://kutty.netlify.app/components/)
+- [Float UI - (for React and Vue)](https://floatui.com/)
 
 ## Kategorize Edilmemişler
 
