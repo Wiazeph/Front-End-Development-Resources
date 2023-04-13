@@ -34,6 +34,13 @@
 
 <br>
 
+#### Slider/Carousel Libraries:
+
+- [Swiper - (Slider Library)](https://swiperjs.com/)
+- [Embla Carousel - (Carousel Library)](https://www.embla-carousel.com/)
+
+<br>
+
 #### Display 360 Degree (Panorama) Libraries:
 
 - [Panolens.js](https://pchen66.github.io/Panolens/)
@@ -42,21 +49,15 @@
 - [View360](https://naver.github.io/egjs-view360/)
 - [JS Cloudimage 360 View](https://scaleflex.github.io/js-cloudimage-360-view/)
 
+<br>
+
 #### Others:
 
 - [Three.js - (3D Library)](https://threejs.org/)
 - [ScrollReveal - (Scroll Animation Library)](https://scrollrevealjs.org/)
+- [ATROPOS - (Parallax Hover Effects Library)](https://atroposjs.com/)
 - [Rough Notation - (Annotation Library)](https://roughnotation.com/)
 - [Proton - (Particle Animations)](https://drawcall.github.io/Proton/)
-
-## In JavaScript and Frameworks/Libraries
-
-- [Swiper - (Slider Library)](https://swiperjs.com/)
-- [Embla Carousel - (Carousel Library)](https://www.embla-carousel.com/)
-
-<br>
-
-- [ATROPOS - (Parallax Hover Effects Library)](https://atroposjs.com/)
 
 ## React
 

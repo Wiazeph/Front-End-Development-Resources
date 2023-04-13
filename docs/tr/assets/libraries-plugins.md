@@ -34,6 +34,13 @@
 
 <br>
 
+#### Slider/Carousel Kütüphaneleri:
+
+- [Swiper - (Slider Library)](https://swiperjs.com/)
+- [Embla Carousel - (Carousel Library)](https://www.embla-carousel.com/)
+
+<br>
+
 #### 360 Derece Görüntüleme (Panorama) Kütüphaneleri:
 
 - [Panolens.js](https://pchen66.github.io/Panolens/)
@@ -42,21 +49,15 @@
 - [View360](https://naver.github.io/egjs-view360/)
 - [JS Cloudimage 360 View](https://scaleflex.github.io/js-cloudimage-360-view/)
 
+<br>
+
 #### Diğer:
 
 - [Three.js - (3D Library)](https://threejs.org/)
 - [ScrollReveal - (Scroll Animation Library)](https://scrollrevealjs.org/)
+- [ATROPOS - (Parallax Hover Effects Library)](https://atroposjs.com/)
 - [Rough Notation - (Annotation Library)](https://roughnotation.com/)
 - [Proton - (Particle Animations)](https://drawcall.github.io/Proton/)
-
-## JavaScript ve Frameworks/Libraries 'lerde de kullanılabilir
-
-- [Swiper - (Slider Library)](https://swiperjs.com/)
-- [Embla Carousel - (Carousel Library)](https://www.embla-carousel.com/)
-
-<br>
-
-- [ATROPOS - (Parallax Hover Effects Library)](https://atroposjs.com/)
 
 ## React
 
