@@ -14,6 +14,9 @@
 - [Headless UI - (Components) - (for React and Vue) - (By the Tailwind Labs)](https://headlessui.com/)
 - [Preline UI - (Components) - (for Native, React and Vue)](https://preline.co/index.html)
 - [DaisyUI - (Components) - (for Native, React, Vue, ...)](https://daisyui.com/)
+
+<br>
+
 - [Material Tailwind - (Components Library for Tailwind CSS and Material Design) - (for Native and React)](https://www.material-tailwind.com/)
 
 ## JavaScript
@@ -27,6 +30,7 @@
 - [Popmotion](https://popmotion.io/)
 - [TheatreJS](https://theatrejs.com/)
 - [Mo.js](https://mojs.github.io/)
+- [Motion One](https://motion.dev/)
 
 <br>
 
