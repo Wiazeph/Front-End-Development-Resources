@@ -92,6 +92,10 @@
 
 <br>
 
+- [Vuesax - (Framework of UI Components)](https://vuesax.com/)
+
+<br>
+
 #### Others:
 
 - [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
