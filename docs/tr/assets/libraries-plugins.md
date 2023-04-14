@@ -85,13 +85,16 @@
 
 <br>
 
-#### Diğer:
+#### Kullanıcı Arayüzü (UI) Bileşenleri Kütüphaneleri:
 
-- [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [PrimeVue](https://primevue.org/)
 
 <br>
 
-- [Vuetify - (UI Component Library)](https://vuetifyjs.com/en/)
+#### Diğer:
+
+- [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
 
 <br>
 
