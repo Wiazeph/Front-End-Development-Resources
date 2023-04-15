@@ -16,6 +16,7 @@
 - [StockSnap](https://stocksnap.io/)
 - [Magdeleine](https://magdeleine.co/)
 - [Life of Pix](https://www.lifeofpix.com/)
+- [Burst](https://burst.shopify.com/)
 
 <br>
 
