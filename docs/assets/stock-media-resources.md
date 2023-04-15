@@ -13,6 +13,7 @@
 - [Freepik](https://www.freepik.com/)
 - [Storyset](https://storyset.com/)
 - [Undraw](https://undraw.co/illustrations)
+- [StockSnap](https://stocksnap.io/)
 
 <br>
 
