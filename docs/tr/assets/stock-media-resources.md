@@ -17,6 +17,7 @@
 - [Magdeleine](https://magdeleine.co/)
 - [Life of Pix](https://www.lifeofpix.com/)
 - [Burst](https://burst.shopify.com/)
+- [Morguefile](https://morguefile.com/)
 
 <br>
 
