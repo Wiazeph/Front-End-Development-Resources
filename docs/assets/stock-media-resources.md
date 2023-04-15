@@ -18,6 +18,7 @@
 - [Life of Pix](https://www.lifeofpix.com/)
 - [Burst](https://burst.shopify.com/)
 - [Morguefile](https://morguefile.com/)
+- [Piqsels](https://www.piqsels.com/)
 
 <br>
 
