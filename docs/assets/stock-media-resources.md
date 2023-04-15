@@ -15,6 +15,7 @@
 - [Undraw](https://undraw.co/illustrations)
 - [StockSnap](https://stocksnap.io/)
 - [Magdeleine](https://magdeleine.co/)
+- [Life of Pix](https://www.lifeofpix.com/)
 
 <br>
 
