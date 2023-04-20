@@ -2,6 +2,7 @@
 
 ## Profil README Oluşturucular
 
+- [GPRM](https://gprm.itsvg.in/)
 - [Rahul Jain'in README Oluşturucu Projesi](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ## Diğerleri
