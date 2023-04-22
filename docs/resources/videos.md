@@ -118,6 +118,10 @@
 
 - [[TR] - TypeScript Dersleri - (PROTOTURK)](https://www.youtube.com/playlist?list=PLfAfrKyDRWrHHC_routvb5WEviGZbJA0w)
 
+## Supabase
+
+- [[EN] - Supabase - Full Course for Beginners - (CodewithGuillaume)](https://www.youtube.com/watch?v=8DTOTT7q0XA)
+
 ## Figma
 
 - [[TR] - Türkçe Figma Eğitimi - (Adem İlter)](https://www.youtube.com/playlist?list=PLadt0EaV4m3BvRYFQxa4w9BWKfrzqC_p6)
