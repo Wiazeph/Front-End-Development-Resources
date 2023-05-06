@@ -17,6 +17,11 @@
 
 - [svggradients.](https://svggradients.com/)
 
+## Shapes/Doodles
+
+- [Shapes Framer](https://shapes.framer.website/)
+- [A free collection of 208 SVG Doodles](https://svgdoodles.com)
+
 ## Tailwind CSS Components
 
 - [Tailblocks - (Components/Blocks)](https://tailblocks.cc/)
@@ -30,7 +35,6 @@
 
 - [uiverse - (Buttons-Loaders-Checkboxes-Toggle Switches-Inputs-Cards)](https://uiverse.io/)
 - [Popular Layouts and Patterns](https://csslayout.io/)
-- [A free collection of 208 SVG Doodles](https://svgdoodles.com)
 
 <br>
 
