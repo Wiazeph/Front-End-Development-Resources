@@ -26,6 +26,8 @@
 ## Tailwind CSS
 
 - [Tailwind CSS](https://umeshmk.github.io/Tailwindcss-cheatsheet/)
+- [Tailwind CSS](https://nerdcave.com/tailwind-cheat-sheet)
+- [Tailwind CSS](https://tailwindcomponents.com/cheatsheet/)
 
 ## JavaScript
 
