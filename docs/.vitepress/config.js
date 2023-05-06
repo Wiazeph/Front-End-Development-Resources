@@ -111,6 +111,10 @@ export default defineConfig({
                 link: "/useful-sections/code-snippets",
               },
               {
+                text: "Mockup Generators",
+                link: "/useful-sections/mockup-generators",
+              },
+              {
                 text: "GitHub ... Generators",
                 link: "/useful-sections/github-generators",
               },
@@ -229,6 +233,10 @@ export default defineConfig({
               {
                 text: "Kod Parçası Görüntüsü Oluşturucular",
                 link: "tr/useful-sections/code-snippets",
+              },
+              {
+                text: "Mockup Oluşturucular",
+                link: "tr/useful-sections/mockup-generators",
               },
               {
                 text: "GitHub ... Oluşturucular",
