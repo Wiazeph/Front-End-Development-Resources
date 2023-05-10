@@ -7,6 +7,7 @@
 <br>
 
 - [DevDocs](https://devdocs.io/)
+- [W3cubDocs](https://docs.w3cub.com/)
 - [Design Resources](https://designresourc.es/)
 - [Free JavaScript Resources](https://www.java5cript.com/)
 - [Web Development Resources](https://web-dev-resources.com/)
