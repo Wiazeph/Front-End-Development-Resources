@@ -28,6 +28,7 @@
 ## Presentation Tools
 
 - [Presentations.AI](https://www.presentations.ai/)
+- [MagicSlides](https://www.magicslides.app/)
 - [Gammatone](https://gamma.app/)
 
 ## Grammar Checker

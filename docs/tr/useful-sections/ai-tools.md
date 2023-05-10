@@ -28,6 +28,7 @@
 ## Sunum Araçları
 
 - [Presentations.AI](https://www.presentations.ai/)
+- [MagicSlides](https://www.magicslides.app/)
 - [Gammatone](https://gamma.app/)
 
 ## Gramer Denetleyicisi
