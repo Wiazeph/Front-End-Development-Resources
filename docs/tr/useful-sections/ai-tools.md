@@ -41,6 +41,7 @@
 ## Görüntü Büyütücü
 
 - [AI Image Enlarger](https://imglarger.com/)
+- [Nero AI](https://ai.nero.com/)
 
 ## Yapay Zeka Ses Oluşturucu
 

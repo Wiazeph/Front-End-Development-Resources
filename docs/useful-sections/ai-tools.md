@@ -38,9 +38,10 @@
 
 - [STOCKIMG.AI - (AI Generated)](https://stockimg.ai/)
 
-## Image Enlarger
+## Image Enlarger/Upscaler
 
 - [AI Image Enlarger](https://imglarger.com/)
+- [Nero AI](https://ai.nero.com/)
 
 ## AI Voice Generator
 
