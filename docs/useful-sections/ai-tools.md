@@ -53,6 +53,10 @@
 
 - [Voicemod](https://www.voicemod.net/)
 
+## Music Generator
+
+- [Boomy - (AI tool that makes money when people listen)](https://boomy.com/)
+
 <br>
 
 ---
