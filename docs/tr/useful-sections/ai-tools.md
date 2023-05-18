@@ -42,6 +42,7 @@
 ## Görüntü Büyütücü
 
 - [AI Image Enlarger](https://imglarger.com/)
+- [Topaz Labs](https://www.topazlabs.com/)
 - [Nero AI](https://ai.nero.com/)
 - [Let's Enhance](https://letsenhance.io/)
 
