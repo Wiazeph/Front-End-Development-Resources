@@ -21,6 +21,7 @@
 <br>
 
 - [JavaScript is Weird](https://jsisweird.com/)
+- [JSQuiz](https://jsquiz.info/)
 
 <br>
 
