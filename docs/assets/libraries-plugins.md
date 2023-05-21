@@ -64,6 +64,7 @@
 - [Three.js - (3D Library)](https://threejs.org/)
 - [ScrollReveal - (Scroll Animation Library)](https://scrollrevealjs.org/)
 - [SortableJS - (Drag and Drop Library)](https://sortablejs.github.io/Sortable/)
+- [noUiSlider - (Range Slider Library)](https://refreshless.com/nouislider/)
 - [Floating UI - (Positioning Library)](https://floating-ui.com/)
 - [ATROPOS - (Parallax Hover Effects Library)](https://atroposjs.com/)
 - [Rough Notation - (Annotation Library)](https://roughnotation.com/)
