@@ -14,6 +14,7 @@
 - [Free for Developers](https://free-for.dev/)
 - [Dev Resources](https://devresourc.es/)
 - [Public APIs](https://publicapis.dev/)
+- [Free Developer Stuff](https://freestuff.dev/)
 
 <br>
 
