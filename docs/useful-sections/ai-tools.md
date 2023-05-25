@@ -8,10 +8,6 @@
 
 - [ChatGPT - (ChatGPT is an artificial intelligence model that can perform tasks such as providing information, giving advice, or having conversations on various topics by communicating with users in natural language)](https://openai.com/blog/chatgpt)
 
-<br>
-
-- [GitHub Copilot - (Copilot is a new AI-Powered code completion tool that helps you write code faster and more efficiently)](https://github.com/features/copilot/)
-
 ## Content/Writing Assistants
 
 - [Rytr](https://rytr.me/)
@@ -57,6 +53,14 @@
 ## Music Generator
 
 - [Boomy - (AI tool that makes money when people listen)](https://boomy.com/)
+
+## Others
+
+- [GitHub Copilot - (Copilot is a new AI-Powered code completion tool that helps you write code faster and more efficiently)](https://github.com/features/copilot/)
+
+<br>
+
+- [Alphy - (Alphy is an artificial intelligence tool that transcribes text and video content, summarizes and prepares it for inquiry)](https://alphy.app/)
 
 <br>
 
