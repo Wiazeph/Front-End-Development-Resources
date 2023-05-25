@@ -2,7 +2,8 @@
 
 ## CSS
 
-- [Animate.css - (CSS Animations Library)](https://animate.style/)
+- [Animate.css - (Animasyon Kütüphanesi)](https://animate.style/)
+- [Transition.css - (Geçiş Kütüphanesi)](https://transition.style/)
 
 ## Tailwind CSS
 
