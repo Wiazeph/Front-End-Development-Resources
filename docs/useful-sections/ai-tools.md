@@ -17,9 +17,10 @@
 
 - [Novel AI - (An AI Storyteller powered by GPT for creating unique and diverse stories)](https://novelai.net/)
 
-## Summarizer Tools
+## Summarizer (Assistant) Tools
 
 - [tl;dv - (Meeting recorder that transcribes and summarizes interviews)](https://tldv.io/)
+- [Avoma - (Meeting Assistant)](https://www.avoma.com/)
 - [Alphy - (Alphy is an artificial intelligence tool that transcribes text and video content, summarizes and prepares it for inquiry)](https://alphy.app/)
 
 ## Resume Builder
@@ -49,13 +50,13 @@
 - [Nero AI](https://ai.nero.com/)
 - [Let's Enhance](https://letsenhance.io/)
 
-## AI Voice Generator
-
-- [Fliki - (Fliki is a tool to create videos from scenarios or blog posts in 2 minutes using realistic sounds)](https://fliki.ai/)
-
 ## Real-Time Voice Changer
 
 - [Voicemod](https://www.voicemod.net/)
+
+## Voice Generator
+
+- [Fliki - (Fliki is a tool to create videos from scenarios or blog posts in 2 minutes using realistic sounds)](https://fliki.ai/)
 
 ## Music Generator
 

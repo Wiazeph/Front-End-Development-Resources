@@ -17,9 +17,10 @@
 
 - [Novel AI - (Benzersiz ve çeşitli hikayeler oluşturmak için GPT tarafından desteklenen bir Yapay Zeka hikaye anlatıcısı)](https://novelai.net/)
 
-## Özetleyici Araçlar
+## Özetleyici (Asistan) Araçlar
 
 - [tl;dv - (Görüşmeleri yazıya döken ve özetleyen toplantı kayıt cihazı)](https://tldv.io/)
+- [Avoma - (Toplantı Asistanı)](https://www.avoma.com/)
 - [Alphy - (Alphy, metni ve video içeriğini yazıya döken, özetleyen ve sorgulama için hazır hale getiren bir yapay zeka aracıdır)](https://alphy.app/)
 
 ## Özgeçmiş Oluşturucu
@@ -49,13 +50,13 @@
 - [Nero AI](https://ai.nero.com/)
 - [Let's Enhance](https://letsenhance.io/)
 
-## Yapay Zeka Ses Oluşturucu
-
-- [Fliki - (Fliki, gerçekçi sesler kullanarak 2 dakikada senaryolardan veya blog gönderilerinden videolar oluşturmaya yarayan bir araçtır)](https://fliki.ai/)
-
 ## Gerçek Zamanlı Ses Değiştirici
 
 - [Voicemod](https://www.voicemod.net/)
+
+## Video Oluşturucu
+
+- [Fliki - (Fliki, gerçekçi sesler kullanarak 2 dakikada senaryolardan veya blog gönderilerinden videolar oluşturmaya yarayan bir araçtır)](https://fliki.ai/)
 
 ## Müzik Oluşturucu
 
