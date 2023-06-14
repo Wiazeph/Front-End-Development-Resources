@@ -10,6 +10,7 @@
 - [PokeAPI - (The RESTful Pokémon API)](https://pokeapi.co/)
 - [Trefle - (The Plant API)](https://trefle.io/)
 - [The Dog API](https://thedogapi.com/)
+- [The Cat API](https://thecatapi.com/)
 
 <br>
 
