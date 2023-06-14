@@ -7,6 +7,7 @@
 <br>
 
 - [HTTP Cats](https://http.cat/)
+- [PokeAPI - (The RESTful Pokémon API)](https://pokeapi.co/)
 
 <br>
 
