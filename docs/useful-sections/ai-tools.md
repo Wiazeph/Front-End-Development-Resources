@@ -38,7 +38,8 @@
 
 ## Image Generators
 
-- [DALL-E](https://openai.com/dall-e-2)
+- [DALL-E - (OpenAI)](https://openai.com/dall-e-2)
+- [AI Picasso](https://www.aipicasso.app/)
 - [STOCKIMG.AI - (Generate Book Cover, Wallpaper, Logo, Stock Image, Illustration)](https://stockimg.ai/)
 
 ## Image Enlarger/Upscaler

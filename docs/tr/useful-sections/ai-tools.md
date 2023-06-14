@@ -38,7 +38,8 @@
 
 ## Görsel Oluşturucular
 
-- [DALL-E](https://openai.com/dall-e-2)
+- [DALL-E - (OpenAI)](https://openai.com/dall-e-2)
+- [AI Picasso](https://www.aipicasso.app/)
 - [STOCKIMG.AI - (Kitap Kapağı, Duvar Kağıdı, Logo, Hazır Görüntü, İllüstrasyon Oluştur)](https://stockimg.ai/)
 
 ## Görüntü Büyütücü
