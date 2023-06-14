@@ -36,9 +36,10 @@
 
 - [QuillBot](https://quillbot.com/)
 
-## Stock Image Search
+## Image Generators
 
-- [STOCKIMG.AI - (AI Generated)](https://stockimg.ai/)
+- [DALL-E](https://openai.com/dall-e-2)
+- [STOCKIMG.AI - (Generate Book Cover, Wallpaper, Logo, Stock Image, Illustration)](https://stockimg.ai/)
 
 ## Image Enlarger/Upscaler
 

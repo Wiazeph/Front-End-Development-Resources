@@ -36,9 +36,10 @@
 
 - [QuillBot](https://quillbot.com/)
 
-## Hazır Görsel Arama
+## Görsel Oluşturucular
 
-- [STOCKIMG.AI - (AI Generated)](https://stockimg.ai/)
+- [DALL-E](https://openai.com/dall-e-2)
+- [STOCKIMG.AI - (Kitap Kapağı, Duvar Kağıdı, Logo, Hazır Görüntü, İllüstrasyon Oluştur)](https://stockimg.ai/)
 
 ## Görüntü Büyütücü
 
