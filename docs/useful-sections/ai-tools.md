@@ -17,6 +17,11 @@
 
 - [Novel AI - (An AI Storyteller powered by GPT for creating unique and diverse stories)](https://novelai.net/)
 
+## Summarizer Tools
+
+- [tl;dv - (Meeting recorder that transcribes and summarizes interviews)](https://tldv.io/)
+- [Alphy - (Alphy is an artificial intelligence tool that transcribes text and video content, summarizes and prepares it for inquiry)](https://alphy.app/)
+
 ## Resume Builder
 
 - [Resume Worded](https://resumeworded.com/)
@@ -57,10 +62,6 @@
 ## Others
 
 - [GitHub Copilot - (Copilot is a new AI-Powered code completion tool that helps you write code faster and more efficiently)](https://github.com/features/copilot/)
-
-<br>
-
-- [Alphy - (Alphy is an artificial intelligence tool that transcribes text and video content, summarizes and prepares it for inquiry)](https://alphy.app/)
 
 <br>
 

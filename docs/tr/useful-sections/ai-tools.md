@@ -17,6 +17,11 @@
 
 - [Novel AI - (Benzersiz ve çeşitli hikayeler oluşturmak için GPT tarafından desteklenen bir Yapay Zeka hikaye anlatıcısı)](https://novelai.net/)
 
+## Özetleyici Araçlar
+
+- [tl;dv - (Görüşmeleri yazıya döken ve özetleyen toplantı kayıt cihazı)](https://tldv.io/)
+- [Alphy - (Alphy, metni ve video içeriğini yazıya döken, özetleyen ve sorgulama için hazır hale getiren bir yapay zeka aracıdır)](https://alphy.app/)
+
 ## Özgeçmiş Oluşturucu
 
 - [Resume Worded](https://resumeworded.com/)
@@ -57,10 +62,6 @@
 ## Diğerleri
 
 - [GitHub Copilot - (Copilot, daha hızlı ve daha verimli kod yazmanıza yardımcı olan, yapay zeka destekli yeni bir kod tamamlama aracıdır)](https://github.com/features/copilot/)
-
-<br>
-
-- [Alphy - (Alphy, metni ve video içeriğini yazıya döken, özetleyen ve sorgulama için hazır hale getiren bir yapay zeka aracıdır)](https://alphy.app/)
 
 <br>
 
