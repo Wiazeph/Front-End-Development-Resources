@@ -70,6 +70,7 @@
 - [ATROPOS - (Parallax Hover Effects Library)](https://atroposjs.com/)
 - [Rough Notation - (Annotation Library)](https://roughnotation.com/)
 - [Proton - (Particle Animations)](https://drawcall.github.io/Proton/)
+- [Chart.js - (Chart Library)](https://www.chartjs.org/)
 
 ## React
 
