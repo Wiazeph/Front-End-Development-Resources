@@ -68,4 +68,8 @@
 
 <br>
 
+- [IconifyAI - (Icon generator tool designed by AI for your app)](https://iconify.ai/)
+
+<br>
+
 ---

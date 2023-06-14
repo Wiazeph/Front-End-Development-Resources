@@ -68,4 +68,8 @@
 
 <br>
 
+- [IconifyAI - (Uygulamanız için yapay zeka tarafından tasarlanan ikon oluşturan araçtır)](https://www.iconifyai.com/)
+
+<br>
+
 ---
