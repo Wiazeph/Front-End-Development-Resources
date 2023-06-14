@@ -12,6 +12,7 @@
 
 - [The Movie Database (TMDB)](https://www.themoviedb.org/)
 - [TVDB - (TV Series and Movie Databases)](https://thetvdb.com/)
+- [OMDb API - (The Open Movie Database)](https://www.omdbapi.com/)
 
 <br>
 
