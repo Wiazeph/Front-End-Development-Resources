@@ -37,11 +37,13 @@
 
 - [QuillBot](https://quillbot.com/)
 
-## Görsel Oluşturucular
+## Görsel/Logo/İkon Oluşturucular
 
 - [DALL-E - (OpenAI)](https://openai.com/dall-e-2)
 - [AI Picasso](https://www.aipicasso.app/)
-- [STOCKIMG.AI - (Kitap Kapağı, Duvar Kağıdı, Logo, Hazır Görüntü, İllüstrasyon Oluştur)](https://stockimg.ai/)
+- [STOCKIMG.AI - (Kitap Kapağı, Duvar Kağıdı, Logo, Hazır Görüntü, İllüstrasyon oluştur)](https://stockimg.ai/)
+- [logomaster.ai - (Logo oluşturucu)](https://logomaster.ai/)
+- [IconifyAI - (İkon oluşturucu)](https://www.iconifyai.com/)
 
 ## Görüntü Büyütücü
 
@@ -65,10 +67,6 @@
 ## Diğerleri
 
 - [GitHub Copilot - (Copilot, daha hızlı ve daha verimli kod yazmanıza yardımcı olan, yapay zeka destekli yeni bir kod tamamlama aracıdır)](https://github.com/features/copilot/)
-
-<br>
-
-- [IconifyAI - (Uygulamanız için yapay zeka tarafından tasarlanan ikon oluşturan araçtır)](https://www.iconifyai.com/)
 
 <br>
 

@@ -37,11 +37,13 @@
 
 - [QuillBot](https://quillbot.com/)
 
-## Image Generators
+## Image/Logo/Icon Generators
 
 - [DALL-E - (OpenAI)](https://openai.com/dall-e-2)
 - [AI Picasso](https://www.aipicasso.app/)
 - [STOCKIMG.AI - (Generate Book Cover, Wallpaper, Logo, Stock Image, Illustration)](https://stockimg.ai/)
+- [logomaster.ai - (Logo generator)](https://logomaster.ai/)
+- [IconifyAI - (Icon generator)](https://iconify.ai/)
 
 ## Image Enlarger/Upscaler
 
@@ -65,10 +67,6 @@
 ## Others
 
 - [GitHub Copilot - (Copilot is a new AI-Powered code completion tool that helps you write code faster and more efficiently)](https://github.com/features/copilot/)
-
-<br>
-
-- [IconifyAI - (Icon generator tool designed by AI for your app)](https://iconify.ai/)
 
 <br>
 
