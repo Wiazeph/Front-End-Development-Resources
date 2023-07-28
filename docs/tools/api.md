@@ -22,6 +22,7 @@
 
 - [OpenWeatherMap](https://openweathermap.org/api)
 - [Weather API](https://www.weatherapi.com/)
+- [AccuWeather APIs](https://developer.accuweather.com/)
 
 <br>
 
