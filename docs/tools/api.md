@@ -21,6 +21,10 @@
 <br>
 
 - [OpenWeatherMap](https://openweathermap.org/api)
+- [Weather API](https://www.weatherapi.com/)
+
+<br>
+
 - [SoundCloud API](https://developers.soundcloud.com/docs/api/guide)
 - [NASA API](https://api.nasa.gov/)
 - [Pocket API](https://getpocket.com/developer/)
