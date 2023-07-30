@@ -3,6 +3,7 @@
 ## HTML
 
 - [[TR] - HTML Dersleri - (Enes Bayram)](https://www.youtube.com/watch?v=Y86zzWRle3g&list=PLURN6mxdcwL_dk2ftGRrvt4R2TqfIUysy)
+- [[TR] - HTML Dersleri - (PROTOTURK)](https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm)
 
 ## CSS
 
@@ -19,7 +20,6 @@
 ## Tailwind CSS
 
 - [[EN] - Tailwind CSS - Course for Beginners - (CodewithGuillaume)](https://www.youtube.com/watch?v=nL7LE4KJDoE)
-- [[EN] - Tailwind CSS – Course for Beginners - (freeCodeCamp.org)](https://www.youtube.com/watch?v=ft30zcMlFao)
 
 <br>
 
@@ -33,11 +33,14 @@
 
 - [[TR] - Bootstrap Dersleri - (Enes Bayram)](https://www.youtube.com/watch?v=8QP-8NPpSq0&list=PLURN6mxdcwL_sM23fQLdwvzC9Qh0N5RPI)
 - [[TR] - Bootstrap 5 - (Arin Yazilim)](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9G3bik1W-RpPTyZ1JIkayG)
+- [[TR] - Bootstrap 4 Eğitim Serisi - (Uğur Aktaş)](https://www.youtube.com/playlist?list=PLsGvMLC84GeS83sr42oNVuR5xdPpmGECj)
+- [[TR] - Bootstrap, mobile-first ve utility-class - (Adem İlter)](https://www.youtube.com/watch?v=Ifp7P1qENoM)
 
 ## JavaScript
 
 - [[EN] - JavaScript - Full Course - (Bro Code)](https://www.youtube.com/watch?v=8dWL3wF_OMw)
 - [[EN] - JavaScript - Full Course - (freeCodeCamp.org)](https://www.youtube.com/watch?v=jS4aFq5-91M&t=10s)
+- [[EN] - Asynchronous JavaScript - (The Net Ninja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
 
 <br>
 
@@ -63,8 +66,9 @@
 
 <br>
 
-- [[TR] - React + Tailwind = UI Clone Projeleri - (PROTOTURK)](https://www.youtube.com/playlist?list=PLfAfrKyDRWrE4Xl7eWBFdC92pOwywbb3e)
+- [[TR] - React Dersleri - (PROTOTURK)](https://www.youtube.com/playlist?list=PLfAfrKyDRWrGXWpnJdyC4yXIW6v-PcFu-)
 - [[TR] - React Örnekleri - (PROTOTURK)](https://www.youtube.com/playlist?list=PLfAfrKyDRWrEkpnC6STed0iVBBZzw5mGj)
+- [[TR] - React + Tailwind = UI Clone Projeleri - (PROTOTURK)](https://www.youtube.com/playlist?list=PLfAfrKyDRWrE4Xl7eWBFdC92pOwywbb3e)
 - [[TR] - ReactJS Basit Uygulamalar - (Uğur Aktaş)](https://www.youtube.com/playlist?list=PLsGvMLC84GeQoPyjwEMpe9aZ9lZYgHe7D)
 - [[TR] - Yeni Başlayanlar İçin React - (Arin Yazilim)](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy)
 - [[TR] - React'la Site Yapımı - (Uğur Coşkun)](https://www.youtube.com/playlist?list=PLeS6o5hW3TG_S7QeCa9_vfq3HazLpo3eA)
@@ -96,6 +100,11 @@
 ## Vue
 
 - [[EN] - Vue.js - Course for Beginners [2021] - (freeCodeCamp.org)](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [[EN] - Vue.js 3 Tutorial - (The Net Ninja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
+
+<br>
+
+- [[TR] - Vue3 Bootcamp - (Kablosuz Kedi)](https://www.youtube.com/playlist?list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp)
 
 <br>
 
@@ -103,8 +112,12 @@
 
 <br>
 
-- [[TR] - Vue3 Bootcamp - (Kablosuz Kedi)](https://www.youtube.com/playlist?list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp)
 - [[TR] - Vue eklentisi nasıl yazılır/paketlenir/npm'e gönderilir - (Adem İlter)](https://www.youtube.com/watch?v=fhu7pHj_Y3c&t=1s)
+- [[TR] - Vue ile Instagram Klonu - (Adem İlter)](https://www.youtube.com/playlist?list=PLadt0EaV4m3AvmC3HzZ0Y2-u_Nunhj8qN)
+
+## Pinia
+
+- [[TR] - Pinia ile Vue.js İçin State Yönetimi Eğitimi - (Gökhun Yayla)](https://www.youtube.com/playlist?list=PLxyK_IDMxgCWeNYJ3_B2mzZav2z_BgF-Q)
 
 ## Nuxt.js
 
@@ -113,6 +126,10 @@
 <br>
 
 - [[TR] - NuxtJS - (Abdullah Uğraşkan)](https://www.youtube.com/playlist?list=PLf-6qk7szL-KlV2rONxuytTWrgb66oMnt)
+
+## Svelte
+
+- [[TR] - Svelte Dersleri - (PROTOTURK)](https://www.youtube.com/playlist?list=PLfAfrKyDRWrG3FFzaO7dym4CPfitc1nTY)
 
 ## TypeScript
 
