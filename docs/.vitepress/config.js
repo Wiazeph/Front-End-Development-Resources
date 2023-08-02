@@ -47,6 +47,10 @@ export default defineConfig({
               { text: "Cheat Sheets", link: "/resources/cheat-sheets" },
               { text: "Roadmaps", link: "/resources/roadmaps" },
               {
+                text: "GitHub Repositories",
+                link: "/resources/github-repositories",
+              },
+              {
                 text: "Resource Search Sites",
                 link: "/resources/resource-search",
               },
@@ -167,6 +171,10 @@ export default defineConfig({
               },
               { text: "Cheat Sheets", link: "tr/resources/cheat-sheets" },
               { text: "Yol Haritaları", link: "tr/resources/roadmaps" },
+              {
+                text: "GitHub Depoları",
+                link: "tr/resources/github-repositories",
+              },
               {
                 text: "Kaynak Arama Siteleri",
                 link: "tr/resources/resource-search",
