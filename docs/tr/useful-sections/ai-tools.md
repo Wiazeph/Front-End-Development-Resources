@@ -8,6 +8,10 @@
 
 - [ChatGPT - (ChatGPT, kullanıcılara doğal dilde iletişim kurarak farklı konularda bilgi sağlama, tavsiyeler verme veya sohbet etme gibi görevleri yerine getirebilen bir yapay zeka modelidir)](https://openai.com/blog/chatgpt)
 
+<br>
+
+- [GitHub Copilot - (Copilot, daha hızlı ve daha verimli kod yazmanıza yardımcı olan, yapay zeka destekli yeni bir kod tamamlama aracıdır)](https://github.com/features/copilot/)
+
 ## İçerik/Yazma Asistanları
 
 - [Rytr](https://rytr.me/)
@@ -63,10 +67,6 @@
 ## Müzik Oluşturucu
 
 - [Boomy - (İnsanlar dinlediğinde para kazandıran müzik oluşturucu bir araçtır)](https://boomy.com/)
-
-## Diğerleri
-
-- [GitHub Copilot - (Copilot, daha hızlı ve daha verimli kod yazmanıza yardımcı olan, yapay zeka destekli yeni bir kod tamamlama aracıdır)](https://github.com/features/copilot/)
 
 <br>
 
