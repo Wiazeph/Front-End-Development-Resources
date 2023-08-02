@@ -1,5 +1,14 @@
 # Kullanıma Hazır Bileşenler
 
+<br>
+
+---
+
+<br>
+
+- [uiverse - (Buttons-Loaders-Checkboxes-Toggle Switches-Inputs-Cards)](https://uiverse.io/)
+- [Popular Layouts and Patterns](https://csslayout.io/)
+
 ## Buttons (+Gradient)
 
 - [Marko Denic Buttons Generator](https://markodenic.com/tools/buttons-generator/)
@@ -30,11 +39,6 @@
 - [Mamba UI - (for Native, React and Vue)](https://mambaui.com/)
 - [Kutty - (for Native and Vue)](https://kutty.netlify.app/components/)
 - [Float UI - (for React and Vue)](https://floatui.com/)
-
-## Kategorize Edilmemişler
-
-- [uiverse - (Buttons-Loaders-Checkboxes-Toggle Switches-Inputs-Cards)](https://uiverse.io/)
-- [Popular Layouts and Patterns](https://csslayout.io/)
 
 <br>
 
