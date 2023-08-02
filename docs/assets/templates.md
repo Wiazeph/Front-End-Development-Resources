@@ -1,6 +1,10 @@
 # Templates
 
-## General Templates
+<br>
+
+---
+
+<br>
 
 - [HTMLrev - (Landing page HTML templates)](https://htmlrev.com/)
 - [HTML5 UP - (Responsive HTML5 and CSS3 Site Templates)](https://html5up.net/)
