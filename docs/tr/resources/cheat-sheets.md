@@ -1,6 +1,10 @@
 # Cheat Sheets
 
-## Genel CheatSheets
+<br>
+
+---
+
+<br>
 
 - [OverAPI.com](https://overapi.com/)
 - [DEVHINTS.IO](https://devhints.io/)
