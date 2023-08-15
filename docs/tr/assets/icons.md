@@ -17,6 +17,7 @@
 - [Iconbuddy](https://iconbuddy.app/)
 - [Phosphor](https://phosphoricons.com/)
 - [Iconoir](https://iconoir.com/)
+- [Lucide](https://lucide.dev/)
 
 <br>
 
