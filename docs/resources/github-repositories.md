@@ -33,6 +33,10 @@
 
 - [clean-code-javascript - (ryanmcdermott)](https://github.com/ryanmcdermott/clean-code-javascript)
 
+<br>
+
+- [[TR] - clean-code-javascript-tr - (foss-dev)](https://github.com/foss-dev/clean-code-javascript-tr)
+
 ## React
 
 - [30-Days-Of-React - (Asabeneh)](https://github.com/Asabeneh/30-Days-Of-React)
