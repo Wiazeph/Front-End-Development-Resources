@@ -74,6 +74,10 @@
 
 ## React
 
+- [Zustand - (State Management)](https://zustand.surge.sh/)
+
+<br>
+
 - [dnd-kit - (Drag and Drop Library)](https://dndkit.com/)
 
 ## Vue
