@@ -35,11 +35,15 @@
 ## Tailwind CSS Bileşenleri
 
 - [Tailblocks - (Components/Blocks)](https://tailblocks.cc/)
+
+<br>
+
 - [Tailwind Widgets](https://tailwindwidgets.com/)
 - [Meraki UI](https://merakiui.com/)
-- [Mamba UI - (for Native, React and Vue)](https://mambaui.com/)
-- [Kutty - (for Native and Vue)](https://kutty.netlify.app/components/)
-- [Float UI - (for React and Vue)](https://floatui.com/)
+- [Mamba UI](https://mambaui.com/)
+- [Kutty](https://kutty.netlify.app/components/)
+- [Float UI](https://floatui.com/)
+- [Konsta UI - (Mobile UI)](https://konstaui.com/)
 
 <br>
 
