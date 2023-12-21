@@ -134,6 +134,7 @@
 ## TypeScript
 
 - [[TR] - TypeScript Dersleri - (PROTOTURK)](https://www.youtube.com/playlist?list=PLfAfrKyDRWrHHC_routvb5WEviGZbJA0w)
+- [[TR] - TypeScript Dersleri - (Vierone­)](https://www.youtube.com/playlist?list=PLDI9Elaqezgy2cCm0oVrwA0tCDj96dCgb)
 
 ## Supabase
 
