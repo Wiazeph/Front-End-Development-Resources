@@ -23,6 +23,10 @@
 - [Frank Eno - AnimatiSS](https://xsgames.co/animatiss/?ref=producthunt)
 - [ibelick - Animation Gallery](https://animation.ibelick.com/)
 
+## Background Animation
+
+- [Animated Backgrounds](https://animatedbackgrounds.me/)
+
 ## Gradient
 
 - [svggradients.](https://svggradients.com/)

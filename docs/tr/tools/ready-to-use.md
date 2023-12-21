@@ -23,6 +23,10 @@
 - [Frank Eno - AnimatiSS](https://xsgames.co/animatiss/?ref=producthunt)
 - [ibelick - Animation Gallery](https://animation.ibelick.com/)
 
+## Arka Plan Animasyonu
+
+- [Animated Backgrounds](https://animatedbackgrounds.me/)
+
 ## Gradient
 
 - [svggradients.](https://svggradients.com/)
@@ -43,7 +47,7 @@
 - [Mamba UI](https://mambaui.com/)
 - [Kutty](https://kutty.netlify.app/components/)
 - [Float UI](https://floatui.com/)
-- [Konsta UI - (Mobile UI)](https://konstaui.com/)
+- [Konsta UI - (Mobil için)](https://konstaui.com/)
 
 <br>
 
