@@ -20,7 +20,8 @@
 
 ## CSS Animations
 
-- [Frank Eno CSS Animations](https://xsgames.co/animatiss/?ref=producthunt)
+- [Frank Eno - AnimatiSS](https://xsgames.co/animatiss/?ref=producthunt)
+- [ibelick - Animation Gallery](https://animation.ibelick.com/)
 
 ## Gradient
 
