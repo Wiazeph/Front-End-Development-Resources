@@ -6,6 +6,11 @@
 
 <br>
 
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Lucide](https://lucide.dev/)
+
+<br>
+
 - [Icônes - (Icon Explorer)](https://icones.js.org/)
 - [SVGPS](https://svgps.app/)
 - [Font Awesome](https://fontawesome.com/)
@@ -17,7 +22,6 @@
 - [Iconbuddy](https://iconbuddy.app/)
 - [Phosphor](https://phosphoricons.com/)
 - [Iconoir](https://iconoir.com/)
-- [Lucide](https://lucide.dev/)
 
 <br>
 
