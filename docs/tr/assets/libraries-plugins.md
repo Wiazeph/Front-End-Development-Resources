@@ -78,7 +78,7 @@
 
 <br>
 
-- [Tremor - (Dashboard Builder)](https://www.tremor.so/)
+- [Tremor - (Kontrol Paneli Oluşturucu)](https://www.tremor.so/)
 
 <br>
 

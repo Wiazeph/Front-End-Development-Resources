@@ -25,6 +25,10 @@
 
 <br>
 
+- [WakaTime - (for Programming Metrics)](https://wakatime.com/)
+
+<br>
+
 - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 - [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
