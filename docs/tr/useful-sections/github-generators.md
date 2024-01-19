@@ -6,8 +6,13 @@
 
 <br>
 
-- [Profile README Icon Card Generator](https://cardify.vercel.app/)
+- [GitHub Insight](https://githubinsight.vercel.app/)
+- [GitHub Worth Generator](https://github-worth.vercel.app/)
 - [Contributions Chart Generator](https://github-contributions.vercel.app/)
+
+<br>
+
+- [Profile README Icon Card Generator](https://cardify.vercel.app/)
 
 ## Profil README Oluşturucular
 
