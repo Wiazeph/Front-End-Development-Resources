@@ -23,6 +23,11 @@
 - [Frank Eno - AnimatiSS](https://xsgames.co/animatiss/?ref=producthunt)
 - [ibelick - Animation Gallery](https://animation.ibelick.com/)
 
+<br>
+
+- [Vineeth.TR - CSS Loaders](https://cssloaders.github.io/)
+- [CSS Loaders](https://css-loaders.com/)
+
 ## Arka Plan Animasyonu
 
 - [Animated Backgrounds](https://animatedbackgrounds.me/)
