@@ -75,6 +75,7 @@
 ## React
 
 - [Zustand - (State Management)](https://zustand.surge.sh/)
+- [React Email](https://react.email/)
 
 <br>
 
