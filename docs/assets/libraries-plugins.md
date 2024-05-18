@@ -101,26 +101,27 @@
 
 #### UI Components Libraries:
 
-- [Vuetify](https://vuetifyjs.com/en/)
-- [PrimeVue](https://primevue.org/)
+- [NextUI - (UI Library) - for React](https://nextui.org/)
 
 <br>
 
-- [Vuesax - (Framework of UI Components)](https://vuesax.com/)
+- [Vuetify - for Vue](https://vuetifyjs.com/en/)
+- [PrimeVue - for Vue](https://primevue.org/)
+- [Vuesax - (Framework of UI Components) - for Vue](https://vuesax.com/)
 
 <br>
 
 #### Others:
 
-- [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
+- [VueUse - (Collection of Essential Vue Composition Utilities) - for Vue](https://vueuse.org/)
 
 <br>
 
-- [VeeValidate - (Form Library)](https://vee-validate.logaretm.com/v4/)
+- [VeeValidate - (Form Library) - for Vue](https://vee-validate.logaretm.com/v4/)
 
 <br>
 
-- [V-Calander - (Calendar Plugin)](https://vcalendar.io/)
+- [V-Calander - (Calendar Plugin) - for Vue](https://vcalendar.io/)
 
 <br>
 
