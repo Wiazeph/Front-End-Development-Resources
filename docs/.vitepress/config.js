@@ -1,261 +1,261 @@
-import { defineConfig } from "vitepress";
+import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  lang: "en-US",
-  title: "Front-End Development Resources",
+  lang: 'en-US',
+  title: 'Front-End Development Resources',
   description:
-    "An amazing repository where you can discover a plethora of resources related to Front-End Development, which will make your life easier.",
+    'An amazing repository where you can discover a plethora of resources related to Front-End Development, which will make your life easier.',
 
   lastUpdated: true,
 
   locales: {
     root: {
-      label: "English",
-      lang: "en",
+      label: 'English',
+      lang: 'en',
 
       themeConfig: {
         nav: [
           {
-            text: "Introduction",
-            link: "/introduction",
+            text: 'Introduction',
+            link: '/introduction',
           },
           {
-            text: "Contributors",
-            link: "/contributors/",
+            text: 'Contributors',
+            link: '/contributors/',
           },
         ],
         sidebar: [
           {
-            text: "Introduction",
-            link: "/introduction",
+            text: 'Introduction',
+            link: '/introduction',
           },
           {
-            text: "Resources",
+            text: 'Resources',
             collapsed: false,
             items: [
-              { text: "Documents", link: "/resources/documents" },
-              { text: "Videos", link: "/resources/videos" },
-              { text: "Courses", link: "/resources/courses" },
+              { text: 'Documents', link: '/resources/documents' },
+              { text: 'Videos', link: '/resources/videos' },
+              { text: 'Courses', link: '/resources/courses' },
               {
-                text: "Certificate Programs",
-                link: "/resources/certificate-programs",
+                text: 'Certificate Programs',
+                link: '/resources/certificate-programs',
               },
               {
-                text: "Training and Code Battles Sites",
-                link: "/resources/training-code-battles-sites",
+                text: 'Training and Code Battles Sites',
+                link: '/resources/training-code-battles-sites',
               },
-              { text: "Cheat Sheets", link: "/resources/cheat-sheets" },
-              { text: "Roadmaps", link: "/resources/roadmaps" },
+              { text: 'Cheat Sheets', link: '/resources/cheat-sheets' },
+              { text: 'Roadmaps', link: '/resources/roadmaps' },
               {
-                text: "GitHub Repositories",
-                link: "/resources/github-repositories",
+                text: 'GitHub Repositories',
+                link: '/resources/github-repositories',
               },
               {
-                text: "Resource Search Sites",
-                link: "/resources/resource-search",
+                text: 'Resource Search Sites',
+                link: '/resources/resource-search',
               },
             ],
           },
           {
-            text: "Tools",
-            collapsed: false,
-            items: [
-              { text: "CSS Generators", link: "/tools/css-generators" },
-              { text: "Ready to Use", link: "/tools/ready-to-use" },
-              { text: "Hosts", link: "/tools/hosts" },
-              { text: "APIs", link: "/tools/api" },
-            ],
-          },
-          {
-            text: "Assets",
+            text: 'Assets',
             collapsed: false,
             items: [
               {
-                text: "Libraries and Plugins",
-                link: "/assets/libraries-plugins",
+                text: 'Libraries and Plugins',
+                link: '/assets/libraries-plugins',
               },
-              { text: "Templates", link: "/assets/templates" },
-              { text: "Icons", link: "/assets/icons" },
-              { text: "Colors", link: "/assets/colors" },
-              { text: "Fonts", link: "/assets/fonts" },
+              { text: 'Ready to Use', link: '/assets/ready-to-use' },
+              { text: 'Templates', link: '/assets/templates' },
+              { text: 'Icons', link: '/assets/icons' },
+              { text: 'Colors', link: '/assets/colors' },
+              { text: 'Fonts', link: '/assets/fonts' },
               {
-                text: "Stock Media Resources",
-                link: "/assets/stock-media-resources",
+                text: 'Stock Media Resources',
+                link: '/assets/stock-media-resources',
               },
             ],
           },
           {
-            text: "Extensions",
+            text: 'Tools',
+            collapsed: false,
+            items: [
+              { text: 'CSS Generators', link: '/tools/css-generators' },
+              { text: 'Hosts', link: '/tools/hosts' },
+              { text: 'APIs', link: '/tools/api' },
+            ],
+          },
+          {
+            text: 'Extensions',
             collapsed: false,
             items: [
               {
-                text: "Browser",
-                link: "/extensions/browser-extensions",
+                text: 'Browser',
+                link: '/extensions/browser-extensions',
               },
               {
-                text: "VSCode",
-                link: "/extensions/vscode-extensions",
+                text: 'VSCode',
+                link: '/extensions/vscode-extensions',
               },
             ],
           },
           {
-            text: "Useful Sections",
+            text: 'Useful Sections',
             collapsed: false,
             items: [
               {
-                text: "AI Tools",
-                link: "/useful-sections/ai-tools",
+                text: 'AI Tools',
+                link: '/useful-sections/ai-tools',
               },
               {
-                text: "CV / Resume Builders",
-                link: "/useful-sections/cv-resume-builders",
+                text: 'CV / Resume Builders',
+                link: '/useful-sections/cv-resume-builders',
               },
               {
-                text: "Code Snippets Image Generators",
-                link: "/useful-sections/code-snippets",
+                text: 'Code Snippets Image Generators',
+                link: '/useful-sections/code-snippets',
               },
               {
-                text: "Mockup Generators",
-                link: "/useful-sections/mockup-generators",
+                text: 'Mockup Generators',
+                link: '/useful-sections/mockup-generators',
               },
               {
-                text: "GitHub ... Generators",
-                link: "/useful-sections/github-generators",
+                text: 'GitHub ... Generators',
+                link: '/useful-sections/github-generators',
               },
             ],
           },
         ],
         editLink: {
           pattern:
-            "https://github.com/emr3rden/Front-End-Development-Resources/edit/main/docs/:path",
-          text: "Edit this page on GitHub",
+            'https://github.com/emr3rden/Front-End-Development-Resources/edit/main/docs/:path',
+          text: 'Edit this page on GitHub',
         },
       },
     },
 
     tr: {
-      label: "Turkish",
-      lang: "tr",
-      link: "/tr",
+      label: 'Turkish',
+      lang: 'tr',
+      link: '/tr',
 
       themeConfig: {
         nav: [
           {
-            text: "Başlarken",
-            link: "tr/introduction",
+            text: 'Başlarken',
+            link: 'tr/introduction',
           },
           {
-            text: "Katkıda Bulunanlar",
-            link: "tr/contributors/",
+            text: 'Katkıda Bulunanlar',
+            link: 'tr/contributors/',
           },
         ],
         sidebar: [
           {
-            text: "Başlarken",
-            link: "tr/introduction",
+            text: 'Başlarken',
+            link: 'tr/introduction',
           },
           {
-            text: "Kaynaklar",
+            text: 'Kaynaklar',
             collapsed: false,
             items: [
-              { text: "Dökümanlar", link: "tr/resources/documents" },
-              { text: "Videolar", link: "tr/resources/videos" },
-              { text: "Kurslar", link: "tr/resources/courses" },
+              { text: 'Dökümanlar', link: 'tr/resources/documents' },
+              { text: 'Videolar', link: 'tr/resources/videos' },
+              { text: 'Kurslar', link: 'tr/resources/courses' },
               {
-                text: "Sertifika Programları",
-                link: "tr/resources/certificate-programs",
+                text: 'Sertifika Programları',
+                link: 'tr/resources/certificate-programs',
               },
               {
-                text: "Pratik Yapma ve Kod Yarıştırma Siteleri",
-                link: "tr/resources/training-code-battles-sites",
+                text: 'Pratik Yapma ve Kod Yarıştırma Siteleri',
+                link: 'tr/resources/training-code-battles-sites',
               },
-              { text: "Cheat Sheets", link: "tr/resources/cheat-sheets" },
-              { text: "Yol Haritaları", link: "tr/resources/roadmaps" },
+              { text: 'Cheat Sheets', link: 'tr/resources/cheat-sheets' },
+              { text: 'Yol Haritaları', link: 'tr/resources/roadmaps' },
               {
-                text: "GitHub Depoları",
-                link: "tr/resources/github-repositories",
+                text: 'GitHub Depoları',
+                link: 'tr/resources/github-repositories',
               },
               {
-                text: "Kaynak Arama Siteleri",
-                link: "tr/resources/resource-search",
+                text: 'Kaynak Arama Siteleri',
+                link: 'tr/resources/resource-search',
               },
             ],
           },
           {
-            text: "Araçlar",
-            collapsed: false,
-            items: [
-              { text: "CSS Oluşturucuları", link: "tr/tools/css-generators" },
-              {
-                text: "Kullanıma Hazır Bileşenler",
-                link: "tr/tools/ready-to-use",
-              },
-              { text: "Hosts", link: "tr/tools/hosts" },
-              { text: "APIs", link: "tr/tools/api" },
-            ],
-          },
-          {
-            text: "Assets/Varlıklar",
+            text: 'Assets/Varlıklar',
             collapsed: false,
             items: [
               {
-                text: "Kütüphaneler ve Eklentiler",
-                link: "tr/assets/libraries-plugins",
+                text: 'Kütüphaneler ve Eklentiler',
+                link: 'tr/assets/libraries-plugins',
               },
-              { text: "Hazır Şablonlar", link: "tr/assets/templates" },
-              { text: "İkonlar", link: "tr/assets/icons" },
-              { text: "Renkler", link: "tr/assets/colors" },
-              { text: "Fontlar", link: "tr/assets/fonts" },
               {
-                text: "Stok Medya Kaynakları",
-                link: "tr/assets/stock-media-resources",
+                text: 'Kullanıma Hazır Bileşenler',
+                link: 'tr/assets/ready-to-use',
+              },
+              { text: 'Hazır Şablonlar', link: 'tr/assets/templates' },
+              { text: 'İkonlar', link: 'tr/assets/icons' },
+              { text: 'Renkler', link: 'tr/assets/colors' },
+              { text: 'Fontlar', link: 'tr/assets/fonts' },
+              {
+                text: 'Stok Medya Kaynakları',
+                link: 'tr/assets/stock-media-resources',
               },
             ],
           },
           {
-            text: "Eklentiler",
+            text: 'Araçlar',
+            collapsed: false,
+            items: [
+              { text: 'CSS Oluşturucuları', link: 'tr/tools/css-generators' },
+              { text: 'Hosts', link: 'tr/tools/hosts' },
+              { text: 'APIs', link: 'tr/tools/api' },
+            ],
+          },
+          {
+            text: 'Eklentiler',
             collapsed: false,
             items: [
               {
-                text: "Tarayıcılar",
-                link: "tr/extensions/browser-extensions",
+                text: 'Tarayıcılar',
+                link: 'tr/extensions/browser-extensions',
               },
               {
-                text: "VSCode",
-                link: "tr/extensions/vscode-extensions",
+                text: 'VSCode',
+                link: 'tr/extensions/vscode-extensions',
               },
             ],
           },
           {
-            text: "Faydalı / Yararlı Bölümler",
+            text: 'Faydalı / Yararlı Bölümler',
             collapsed: false,
             items: [
               {
-                text: "Yapay Zeka Araçları",
-                link: "tr/useful-sections/ai-tools",
+                text: 'Yapay Zeka Araçları',
+                link: 'tr/useful-sections/ai-tools',
               },
               {
-                text: "Özgeçmiş Oluşturucular",
-                link: "tr/useful-sections/cv-resume-builders",
+                text: 'Özgeçmiş Oluşturucular',
+                link: 'tr/useful-sections/cv-resume-builders',
               },
               {
-                text: "Kod Parçası Görüntüsü Oluşturucular",
-                link: "tr/useful-sections/code-snippets",
+                text: 'Kod Parçası Görüntüsü Oluşturucular',
+                link: 'tr/useful-sections/code-snippets',
               },
               {
-                text: "Mockup Oluşturucular",
-                link: "tr/useful-sections/mockup-generators",
+                text: 'Mockup Oluşturucular',
+                link: 'tr/useful-sections/mockup-generators',
               },
               {
-                text: "GitHub ... Oluşturucular",
-                link: "tr/useful-sections/github-generators",
+                text: 'GitHub ... Oluşturucular',
+                link: 'tr/useful-sections/github-generators',
               },
             ],
           },
         ],
         editLink: {
           pattern:
-            "https://github.com/emr3rden/Front-End-Development-Resources/edit/main/docs/:path",
+            'https://github.com/emr3rden/Front-End-Development-Resources/edit/main/docs/:path',
           text: "Bu sayfayı GitHub'da düzenleyin",
         },
       },
@@ -265,27 +265,27 @@ export default defineConfig({
   themeConfig: {
     socialLinks: [
       {
-        icon: "github",
-        link: "https://github.com/emr3rden/Front-End-Development-Resources",
+        icon: 'github',
+        link: 'https://github.com/emr3rden/Front-End-Development-Resources',
       },
     ],
     algolia: {
-      appId: "NO1120J46I",
-      apiKey: "61465e950c739127c35c71ec7abba88b",
-      indexName: "frontresources",
+      appId: 'NO1120J46I',
+      apiKey: '61465e950c739127c35c71ec7abba88b',
+      indexName: 'frontresources',
     },
   },
 
   head: [
     [
-      "script",
+      'script',
       {
         async: true,
-        src: "https://www.googletagmanager.com/gtag/js?id=G-F1Y2DN3M4G",
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-F1Y2DN3M4G',
       },
     ],
     [
-      "script",
+      'script',
       {},
       `
       window.dataLayer = window.dataLayer || [];
@@ -295,4 +295,4 @@ export default defineConfig({
     `,
     ],
   ],
-});
+})

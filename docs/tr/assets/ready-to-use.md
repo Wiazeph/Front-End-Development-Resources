@@ -1,4 +1,4 @@
-# Ready to Use
+# Kullanıma Hazır Bileşenler
 
 <br>
 
@@ -18,7 +18,7 @@
 
 - [CSS Scan](https://getcssscan.com/css-box-shadow-examples)
 
-## CSS Animations
+## CSS Animasyonları
 
 - [Frank Eno - AnimatiSS](https://xsgames.co/animatiss/?ref=producthunt)
 - [ibelick - Animation Gallery](https://animation.ibelick.com/)
@@ -28,7 +28,7 @@
 - [Vineeth.TR - CSS Loaders](https://cssloaders.github.io/)
 - [CSS Loaders](https://css-loaders.com/)
 
-## Background Animation
+## Arka Plan Animasyonu
 
 - [Animated Backgrounds](https://animatedbackgrounds.me/)
 
@@ -41,9 +41,10 @@
 - [Shapes Framer](https://shapes.framer.website/)
 - [A free collection of 208 SVG Doodles](https://svgdoodles.com)
 
-## Tailwind CSS Components
+## Tailwind CSS Bileşenleri
 
 - [Tailblocks - (Components/Blocks)](https://tailblocks.cc/)
+- [Tremor Blocks - (Components/Block)](https://blocks.tremor.so/)
 
 <br>
 
@@ -52,7 +53,7 @@
 - [Mamba UI](https://mambaui.com/)
 - [Kutty](https://kutty.netlify.app/components/)
 - [Float UI](https://floatui.com/)
-- [Konsta UI - (for Mobile)](https://konstaui.com/)
+- [Konsta UI - (Mobil için)](https://konstaui.com/)
 
 <br>
 

@@ -11,22 +11,21 @@
 
 #### By The Makers of Tailwind CSS:
 
-- [Tailwind UI - (Official Components of Tailwind CSS) - (for Native, React and Vue)](https://tailwindui.com/)
-- [Headless UI - (Components) - (for Native, React and Vue)](https://headlessui.com/)
-- [Heroicons - (Icons) - (for Native, React and Vue)](https://heroicons.com/)
+- [Tailwind UI - (Official Components of Tailwind CSS) - for Native, React and Vue](https://tailwindui.com/)
+- [Headless UI - (Components) - for Native, React and Vue](https://headlessui.com/)
 
 <br>
 
 #### Others / By The Community:
 
-- [Flowbite - (Components) - (for React, Vue, ...)](https://flowbite.com/)
-- [Preline UI - (Components) - (for Native, React and Vue)](https://preline.co/index.html)
-- [DaisyUI - (Components) - (for Native)](https://daisyui.com/)
-- [Kutty - (Components) - (for Native)](https://kutty.netlify.app/docs/)
+- [Flowbite - for React, Vue, ...](https://flowbite.com/)
+- [Preline UI - for Native, React and Vue](https://preline.co/index.html)
+- [DaisyUI - for Native](https://daisyui.com/)
+- [Kutty - for Native](https://kutty.netlify.app/docs/)
 
 <br>
 
-- [Material Tailwind - (Components Library for Tailwind CSS and Material Design) - (for Native and React)](https://www.material-tailwind.com/)
+- [Material Tailwind - (Components Library for Tailwind CSS and Material Design) - for Native and React](https://www.material-tailwind.com/)
 
 ## JavaScript
 
@@ -62,7 +61,6 @@
 
 #### Others:
 
-- [Three.js - (3D Library)](https://threejs.org/)
 - [ScrollReveal - (Scroll Animation Library)](https://scrollrevealjs.org/)
 - [SortableJS - (Drag and Drop Library)](https://sortablejs.github.io/Sortable/)
 - [noUiSlider - (Range Slider Library)](https://refreshless.com/nouislider/)
@@ -71,21 +69,37 @@
 - [Rough Notation - (Annotation Library)](https://roughnotation.com/)
 - [Proton - (Particle Animations)](https://drawcall.github.io/Proton/)
 - [Chart.js - (Chart Library)](https://www.chartjs.org/)
+- [Three.js - (3D Library)](https://threejs.org/)
+- [Drie - (3D Component Library)](https://drei.pmnd.rs/)
 
 ## React
+
+- [NextUI - (UI Library) - for React](https://nextui.org/)
+- [Tremor - (UI Library)](https://www.tremor.so/)
+
+<br>
 
 - [Zustand - (State Management)](https://zustand.surge.sh/)
 - [React Email](https://react.email/)
 
 <br>
 
-- [Tremor - (Dashboard Builder)](https://www.tremor.so/)
-
-<br>
-
 - [dnd-kit - (Drag and Drop Library)](https://dndkit.com/)
 
 ## Vue
+
+- [Vuetify](https://vuetifyjs.com/en/)
+- [PrimeVue](https://primevue.org/)
+- [Vuesax - (Framework of UI Components)](https://vuesax.com/)
+- [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
+
+<br>
+
+- [VeeValidate - (Form Library)](https://vee-validate.logaretm.com/v4/)
+
+<br>
+
+- [V-Calander - (Calendar Plugin)](https://vcalendar.io/)
 
 <br>
 
@@ -96,36 +110,6 @@
 <br>
 
 - [Pinia](https://pinia.vuejs.org/)
-
-<br>
-
-#### UI Components Libraries:
-
-- [NextUI - (UI Library) - for React](https://nextui.org/)
-
-<br>
-
-- [Vuetify - for Vue](https://vuetifyjs.com/en/)
-- [PrimeVue - for Vue](https://primevue.org/)
-- [Vuesax - (Framework of UI Components) - for Vue](https://vuesax.com/)
-
-<br>
-
-#### Others:
-
-- [VueUse - (Collection of Essential Vue Composition Utilities) - for Vue](https://vueuse.org/)
-
-<br>
-
-- [VeeValidate - (Form Library) - for Vue](https://vee-validate.logaretm.com/v4/)
-
-<br>
-
-- [V-Calander - (Calendar Plugin) - for Vue](https://vcalendar.io/)
-
-<br>
-
-- [Drie - (3D Component Library)](https://drei.pmnd.rs/)
 
 <br>
 

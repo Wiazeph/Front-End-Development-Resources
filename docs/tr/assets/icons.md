@@ -8,13 +8,13 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Lucide](https://lucide.dev/)
+- [Hero Icons](https://heroicons.com/)
 
 <br>
 
 - [Icônes - (Icon Explorer)](https://icones.js.org/)
 - [SVGPS](https://svgps.app/)
 - [Font Awesome](https://fontawesome.com/)
-- [Hero Icons](https://heroicons.com/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 <br>
