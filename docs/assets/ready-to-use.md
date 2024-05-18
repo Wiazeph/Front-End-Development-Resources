@@ -54,6 +54,7 @@
 - [Kutty](https://kutty.netlify.app/components/)
 - [Float UI](https://floatui.com/)
 - [Konsta UI - (for Mobile)](https://konstaui.com/)
+- [Luxe - (for Dark Mode)](https://luxe.guhrodrigues.com/)
 
 <br>
 

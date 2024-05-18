@@ -54,6 +54,7 @@
 - [Kutty](https://kutty.netlify.app/components/)
 - [Float UI](https://floatui.com/)
 - [Konsta UI - (Mobil için)](https://konstaui.com/)
+- [Luxe - (Koyu Mod için)](https://luxe.guhrodrigues.com/)
 
 <br>
 
