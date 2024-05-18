@@ -6,6 +6,10 @@
 
 <br>
 
+- [The Theme Studio for VS Code](https://themes.vscode.one/)
+
+<br>
+
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
