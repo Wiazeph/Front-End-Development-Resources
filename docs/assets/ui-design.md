@@ -17,6 +17,7 @@
 ## React
 
 - [Next UI](https://nextui.org/)
+- [Magic UI](https://magicui.design/)
 - [Tremor](https://www.tremor.so/)
 
 ## Vue
