@@ -5,28 +5,6 @@
 - [Animate.css - (Animations Library)](https://animate.style/)
 - [Transition.css - (Transitions Library)](https://transition.style/)
 
-## Tailwind CSS
-
-<br>
-
-#### By The Makers of Tailwind CSS:
-
-- [Tailwind UI - (Official Components of Tailwind CSS) - for Native, React and Vue](https://tailwindui.com/)
-- [Headless UI - (Components) - for Native, React and Vue](https://headlessui.com/)
-
-<br>
-
-#### Others / By The Community:
-
-- [Flowbite - for React, Vue, ...](https://flowbite.com/)
-- [Preline UI - for Native, React and Vue](https://preline.co/index.html)
-- [DaisyUI - for Native](https://daisyui.com/)
-- [Kutty - for Native](https://kutty.netlify.app/docs/)
-
-<br>
-
-- [Material Tailwind - (Components Library for Tailwind CSS and Material Design) - for Native and React](https://www.material-tailwind.com/)
-
 ## JavaScript
 
 <br>
@@ -74,11 +52,6 @@
 
 ## React
 
-- [NextUI - (UI Library) - for React](https://nextui.org/)
-- [Tremor - (UI Library)](https://www.tremor.so/)
-
-<br>
-
 - [Zustand - (State Management)](https://zustand.surge.sh/)
 - [React Email](https://react.email/)
 
@@ -89,8 +62,6 @@
 ## Vue
 
 - [Vuetify](https://vuetifyjs.com/en/)
-- [PrimeVue](https://primevue.org/)
-- [Vuesax - (Framework of UI Components)](https://vuesax.com/)
 - [VueUse - (Collection of Essential Vue Composition Utilities)](https://vueuse.org/)
 
 <br>

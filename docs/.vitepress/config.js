@@ -61,6 +61,10 @@ export default defineConfig({
             collapsed: false,
             items: [
               {
+                text: 'UI Design Components',
+                link: '/assets/ui-design',
+              },
+              {
                 text: 'Libraries and Plugins',
                 link: '/assets/libraries-plugins',
               },
@@ -185,6 +189,10 @@ export default defineConfig({
             text: 'Assets/Varlıklar',
             collapsed: false,
             items: [
+              {
+                text: 'Arayüz Tasarımı Bileşenleri (UI)',
+                link: '/assets/ui-design',
+              },
               {
                 text: 'Kütüphaneler ve Eklentiler',
                 link: 'tr/assets/libraries-plugins',
