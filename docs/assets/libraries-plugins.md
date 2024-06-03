@@ -59,6 +59,12 @@
 
 - [dnd-kit - (Drag and Drop Library)](https://dndkit.com/)
 
+<br>
+
+#### Toast Libraries/Components:
+
+- [React Toastify](https://fkhadra.github.io/react-toastify/introduction/)
+
 ## Vue
 
 - [Vuetify](https://vuetifyjs.com/en/)
