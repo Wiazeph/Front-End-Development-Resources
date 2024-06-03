@@ -63,6 +63,7 @@
 
 #### Toast Libraries/Components:
 
+- [sonner](https://sonner.emilkowal.ski/)
 - [React Toastify](https://fkhadra.github.io/react-toastify/introduction/)
 
 ## Vue
