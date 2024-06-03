@@ -10,4 +10,4 @@ hero:
       link: /introduction
     - theme: alt
       text: View on GitHub
-      link: https://github.com/emr3rden/Front-End-Development-Resources
+      link: https://github.com/Wiazeph/Front-End-Development-Resources
