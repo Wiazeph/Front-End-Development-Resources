@@ -57,6 +57,10 @@
 
 <br>
 
+- [Recharts - (Chart Library)](https://recharts.org/en-US/)
+
+<br>
+
 - [dnd-kit - (Drag and Drop Library)](https://dndkit.com/)
 
 <br>
