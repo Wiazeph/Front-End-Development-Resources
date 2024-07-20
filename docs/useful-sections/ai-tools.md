@@ -12,6 +12,10 @@
 
 - [GitHub Copilot - (Copilot is a new AI-Powered code completion tool that helps you write code faster and more efficiently)](https://github.com/features/copilot/)
 
+<br>
+
+- [Trained by Anthropic using Constitutional AI to be safe, accurate, and secure the best assistant for you to do your best work.](https://claude.ai/)
+
 ## Content/Writing Assistants
 
 - [Rytr](https://rytr.me/)
