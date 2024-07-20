@@ -61,6 +61,10 @@
 
 <br>
 
+- [kmenu - (Command Menu)](https://kmenu.hxrsh.in/)
+
+<br>
+
 - [dnd-kit - (Drag and Drop Library)](https://dndkit.com/)
 
 <br>
