@@ -1,3 +1,5 @@
+.env.local
+
 node_modules
 
 .vitepress/dist

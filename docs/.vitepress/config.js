@@ -18,6 +18,7 @@ export default defineConfig({
         link: '/contributors/',
       },
     ],
+
     sidebar: [
       {
         text: 'Introduction',
@@ -123,24 +124,24 @@ export default defineConfig({
         ],
       },
     ],
+
     editLink: {
       pattern:
         'https://github.com/Wiazeph/Front-End-Development-Resources/edit/main/docs/:path',
       text: 'Edit this page on GitHub',
     },
+
     socialLinks: [
       {
         icon: 'github',
         link: 'https://github.com/Wiazeph/Front-End-Development-Resources',
       },
     ],
-    search: {
-      provider: 'algolia',
-      options: {
-        appId: 'NO1120J46I',
-        apiKey: '61465e950c739127c35c71ec7abba88b',
-        indexName: 'frontresources',
-      },
+
+    algolia: {
+      appId: process.env.ALGOLIA_APP_ID,
+      apiKey: process.env.ALGOLIA_API_KEY,
+      indexName: process.env.ALGOLIA_INDEX_NAME,
     },
   },
 
