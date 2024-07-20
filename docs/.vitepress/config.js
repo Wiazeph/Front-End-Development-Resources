@@ -134,10 +134,13 @@ export default defineConfig({
         link: 'https://github.com/Wiazeph/Front-End-Development-Resources',
       },
     ],
-    algolia: {
-      appId: 'NO1120J46I',
-      apiKey: '61465e950c739127c35c71ec7abba88b',
-      indexName: 'frontresources',
+    search: {
+      provider: 'algolia',
+      options: {
+        appId: 'NO1120J46I',
+        apiKey: '61465e950c739127c35c71ec7abba88b',
+        indexName: 'frontresources',
+      },
     },
   },
 
@@ -146,7 +149,7 @@ export default defineConfig({
       'script',
       {
         async: true,
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-F1Y2DN3M4G',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-YDYXCDG57L',
       },
     ],
     [
@@ -156,7 +159,7 @@ export default defineConfig({
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-F1Y2DN3M4G');
+      gtag('config', 'G-YDYXCDG57L');
     `,
     ],
   ],
